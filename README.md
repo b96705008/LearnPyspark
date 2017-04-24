@@ -1,4 +1,4 @@
-# Let's learn PySpark!
+# Let's learning PySpark!
 
 ## Install the enviroment
 1. Setup the Scala 2.11.8: 
