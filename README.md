@@ -38,4 +38,4 @@
 * Week 1 - introduce the Spark and RDD (Roger)
 * Week 2 - Spark Dataframe, SQL and interact with Hive (冠穎、采襄)
 * Week 3 - Spark configuration with partitions, yarn mode and so on. (Miles)
-* Week 4~ - Case study (hackathon, digital, hive table or text)
+* Week 4~ - Case study (hackathon, digital, hive table, text or work with Kafka)
