@@ -1,18 +1,18 @@
 # Let's learning PySpark!
 
-## Install the enviroment
+## Setup the enviroment
 1. Setup the Scala 2.11.8: 
  * download from https://www.scala-lang.org/download/2.11.8.html
  * move folder to /usr/local/share/scala
- * edit ~/.bashrc or ~/.bash_profile
+ * vim ~/.bashrc or vim ~/.bash_profile
  ```
- export SCALA_HOME=/usr/local/share/scala
+ export SCALA_HOME=/usr/local/scala
  export PATH=$PATH:$SCALA_HOME/bin
  ```
 
 2. Setup Spark 2.1.0
  * download from http://spark.apache.org/downloads.html (hadoop version can be 2.6)
- * edit ~/.bashrc or ~/.bash_profile
+ * vim ~/.bashrc or vim ~/.bash_profile
  ```
  export SPARK_HOME=$RES_PATH/spark/spark-2.1.0-bin-hadoop2.6
  export PATH=$PATH:$SPARK_HOME/bin
