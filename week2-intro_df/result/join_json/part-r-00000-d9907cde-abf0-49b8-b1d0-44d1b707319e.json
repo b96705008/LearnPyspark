@@ -1,0 +1,943 @@
+{"zipcode":"21911","userid":175,"age":26,"gender":"F","occupation":"scientist","birthyear":1991,"City":"RISING SUN","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"80521","userid":66,"age":23,"gender":"M","occupation":"student","birthyear":1994,"City":"FORT COLLINS","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"12550","userid":48,"age":45,"gender":"M","occupation":"administrator","birthyear":1972,"City":"NEWBURGH","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"48043","userid":636,"age":47,"gender":"M","occupation":"educator","birthyear":1970,"City":"MOUNT CLEMENS","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"91505","userid":896,"age":28,"gender":"M","occupation":"writer","birthyear":1989,"City":"BURBANK","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"98405","userid":732,"age":28,"gender":"F","occupation":"other","birthyear":1989,"City":"TACOMA","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"10960","userid":204,"age":52,"gender":"F","occupation":"librarian","birthyear":1965,"City":"NYACK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10960","userid":766,"age":42,"gender":"M","occupation":"other","birthyear":1975,"City":"NYACK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"14211","userid":760,"age":35,"gender":"F","occupation":"other","birthyear":1982,"City":"BUFFALO","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"62903","userid":764,"age":27,"gender":"F","occupation":"educator","birthyear":1990,"City":"CARBONDALE","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"48103","userid":151,"age":38,"gender":"F","occupation":"administrator","birthyear":1979,"City":"ANN ARBOR","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"48103","userid":417,"age":27,"gender":"F","occupation":"other","birthyear":1990,"City":"ANN ARBOR","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"48103","userid":579,"age":32,"gender":"M","occupation":"educator","birthyear":1985,"City":"ANN ARBOR","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"55422","userid":424,"age":36,"gender":"F","occupation":"marketing","birthyear":1981,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55422","userid":565,"age":40,"gender":"M","occupation":"student","birthyear":1977,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"78155","userid":90,"age":60,"gender":"M","occupation":"educator","birthyear":1957,"City":"SEGUIN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"95032","userid":113,"age":47,"gender":"M","occupation":"executive","birthyear":1970,"City":"LOS GATOS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"60152","userid":817,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"MARENGO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"85032","userid":251,"age":28,"gender":"M","occupation":"doctor","birthyear":1989,"City":"PHOENIX","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"92507","userid":867,"age":24,"gender":"M","occupation":"scientist","birthyear":1993,"City":"RIVERSIDE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"00000","userid":186,"age":39,"gender":"F","occupation":"executive","birthyear":1978}
+{"zipcode":"00000","userid":767,"age":70,"gender":"M","occupation":"engineer","birthyear":1947}
+{"zipcode":"15017","userid":824,"age":31,"gender":"M","occupation":"other","birthyear":1986,"City":"BRIDGEVILLE","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"38866","userid":631,"age":18,"gender":"F","occupation":"student","birthyear":1999,"City":"SALTILLO","State":"MS","ZipCodeType":"STANDARD"}
+{"zipcode":"11217","userid":155,"age":32,"gender":"F","occupation":"other","birthyear":1985,"City":"BROOKLYN","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"11217","userid":557,"age":30,"gender":"F","occupation":"writer","birthyear":1987,"City":"BROOKLYN","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"11217","userid":806,"age":27,"gender":"M","occupation":"marketing","birthyear":1990,"City":"BROOKLYN","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"11758","userid":450,"age":35,"gender":"F","occupation":"educator","birthyear":1982,"City":"MASSAPEQUA","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"20902","userid":876,"age":41,"gender":"M","occupation":"other","birthyear":1976,"City":"SILVER SPRING","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"44074","userid":361,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"OBERLIN","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"55104","userid":161,"age":50,"gender":"M","occupation":"lawyer","birthyear":1967,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55104","userid":528,"age":18,"gender":"M","occupation":"student","birthyear":1999,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55104","userid":757,"age":26,"gender":"M","occupation":"student","birthyear":1991,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"60187","userid":623,"age":50,"gender":"F","occupation":"educator","birthyear":1967,"City":"WHEATON","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"94612","userid":132,"age":24,"gender":"M","occupation":"other","birthyear":1993,"City":"OAKLAND","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"02143","userid":147,"age":40,"gender":"F","occupation":"librarian","birthyear":1977,"City":"SOMERVILLE","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"44691","userid":411,"age":34,"gender":"M","occupation":"educator","birthyear":1983,"City":"WOOSTER","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"53115","userid":206,"age":14,"gender":"F","occupation":"student","birthyear":2003,"City":"DELAVAN","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"55128","userid":682,"age":23,"gender":"M","occupation":"programmer","birthyear":1994,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"66315","userid":54,"age":22,"gender":"M","occupation":"executive","birthyear":1995}
+{"zipcode":"01940","userid":638,"age":45,"gender":"M","occupation":"engineer","birthyear":1972,"City":"LYNNFIELD","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"05001","userid":465,"age":32,"gender":"M","occupation":"other","birthyear":1985,"City":"WHITE RIVER JUNCTION","State":"VT","ZipCodeType":"STANDARD"}
+{"zipcode":"05779","userid":788,"age":51,"gender":"M","occupation":"administrator","birthyear":1966}
+{"zipcode":"77008","userid":611,"age":46,"gender":"M","occupation":"librarian","birthyear":1971,"City":"HOUSTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"53144","userid":822,"age":29,"gender":"F","occupation":"librarian","birthyear":1988,"City":"KENOSHA","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"60201","userid":202,"age":41,"gender":"F","occupation":"educator","birthyear":1976,"City":"EVANSTON","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"60201","userid":243,"age":33,"gender":"M","occupation":"educator","birthyear":1984,"City":"EVANSTON","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"60201","userid":446,"age":57,"gender":"M","occupation":"educator","birthyear":1960,"City":"EVANSTON","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"76309","userid":700,"age":17,"gender":"M","occupation":"student","birthyear":2000,"City":"WICHITA FALLS","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"03755","userid":79,"age":39,"gender":"F","occupation":"administrator","birthyear":1978,"City":"HANOVER","State":"NH","ZipCodeType":"STANDARD"}
+{"zipcode":"30067","userid":170,"age":53,"gender":"F","occupation":"healthcare","birthyear":1964,"City":"MARIETTA","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"30067","userid":624,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"MARIETTA","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"39762","userid":649,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"MISSISSIPPI STATE","State":"MS","ZipCodeType":"PO BOX"}
+{"zipcode":"94025","userid":410,"age":30,"gender":"F","occupation":"artist","birthyear":1987,"City":"MENLO PARK","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"03869","userid":506,"age":46,"gender":"M","occupation":"programmer","birthyear":1971,"City":"ROLLINSFORD","State":"NH","ZipCodeType":"STANDARD"}
+{"zipcode":"08043","userid":314,"age":20,"gender":"F","occupation":"student","birthyear":1997,"City":"VOORHEES","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"18015","userid":377,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"BETHLEHEM","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"27105","userid":772,"age":50,"gender":"M","occupation":"writer","birthyear":1967,"City":"WINSTON SALEM","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"94043","userid":2,"age":53,"gender":"F","occupation":"other","birthyear":1964,"City":"MOUNTAIN VIEW","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94043","userid":29,"age":41,"gender":"M","occupation":"programmer","birthyear":1976,"City":"MOUNTAIN VIEW","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94043","userid":105,"age":24,"gender":"M","occupation":"engineer","birthyear":1993,"City":"MOUNTAIN VIEW","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"08034","userid":627,"age":24,"gender":"M","occupation":"engineer","birthyear":1993,"City":"CHERRY HILL","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"14476","userid":230,"age":28,"gender":"F","occupation":"student","birthyear":1989,"City":"KENDALL","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"28806","userid":815,"age":32,"gender":"M","occupation":"other","birthyear":1985,"City":"ASHEVILLE","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"29631","userid":583,"age":44,"gender":"M","occupation":"engineer","birthyear":1973,"City":"CLEMSON","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"33556","userid":931,"age":60,"gender":"M","occupation":"educator","birthyear":1957,"City":"ODESSA","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"55346","userid":159,"age":23,"gender":"F","occupation":"student","birthyear":1994,"City":"EDEN PRAIRIE","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55346","userid":263,"age":41,"gender":"M","occupation":"programmer","birthyear":1976,"City":"EDEN PRAIRIE","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"78750","userid":171,"age":48,"gender":"F","occupation":"educator","birthyear":1969,"City":"AUSTIN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"92688","userid":356,"age":32,"gender":"F","occupation":"homemaker","birthyear":1985,"City":"RANCHO SANTA MARGARITA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"20057","userid":282,"age":22,"gender":"M","occupation":"administrator","birthyear":1995,"City":"WASHINGTON","State":"DC","ZipCodeType":"UNIQUE"}
+{"zipcode":"43512","userid":224,"age":31,"gender":"F","occupation":"educator","birthyear":1986,"City":"DEFIANCE","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"55420","userid":789,"age":29,"gender":"M","occupation":"other","birthyear":1988,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55428","userid":927,"age":23,"gender":"M","occupation":"programmer","birthyear":1994,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"92103","userid":226,"age":28,"gender":"M","occupation":"student","birthyear":1989,"City":"SAN DIEGO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"95129","userid":402,"age":30,"gender":"M","occupation":"engineer","birthyear":1987,"City":"SAN JOSE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"97365","userid":136,"age":51,"gender":"M","occupation":"other","birthyear":1966,"City":"NEWPORT","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"19341","userid":663,"age":26,"gender":"M","occupation":"other","birthyear":1991,"City":"EXTON","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"27502","userid":222,"age":29,"gender":"M","occupation":"programmer","birthyear":1988,"City":"APEX","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"71457","userid":94,"age":26,"gender":"M","occupation":"student","birthyear":1991,"City":"NATCHITOCHES","State":"LA","ZipCodeType":"STANDARD"}
+{"zipcode":"80227","userid":614,"age":54,"gender":"M","occupation":"educator","birthyear":1963,"City":"DENVER","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"17604","userid":199,"age":30,"gender":"M","occupation":"writer","birthyear":1987,"City":"LANCASTER","State":"PA","ZipCodeType":"PO BOX"}
+{"zipcode":"17870","userid":42,"age":30,"gender":"M","occupation":"administrator","birthyear":1987,"City":"SELINSGROVE","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"77504","userid":877,"age":30,"gender":"M","occupation":"other","birthyear":1987,"City":"PASADENA","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"90254","userid":100,"age":36,"gender":"M","occupation":"executive","birthyear":1981,"City":"HERMOSA BEACH","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"16509","userid":51,"age":28,"gender":"M","occupation":"educator","birthyear":1989,"City":"ERIE","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"19382","userid":508,"age":27,"gender":"M","occupation":"marketing","birthyear":1990,"City":"WEST CHESTER","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"78739","userid":654,"age":27,"gender":"F","occupation":"student","birthyear":1990,"City":"AUSTIN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"07102","userid":47,"age":53,"gender":"M","occupation":"marketing","birthyear":1964,"City":"NEWARK","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"30040","userid":61,"age":36,"gender":"M","occupation":"engineer","birthyear":1981,"City":"CUMMING","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"40515","userid":853,"age":49,"gender":"M","occupation":"writer","birthyear":1968,"City":"LEXINGTON","State":"KY","ZipCodeType":"STANDARD"}
+{"zipcode":"43212","userid":219,"age":32,"gender":"M","occupation":"programmer","birthyear":1985,"City":"COLUMBUS","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"43212","userid":483,"age":29,"gender":"M","occupation":"scientist","birthyear":1988,"City":"COLUMBUS","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"73162","userid":739,"age":35,"gender":"M","occupation":"technician","birthyear":1982,"City":"OKLAHOMA CITY","State":"OK","ZipCodeType":"STANDARD"}
+{"zipcode":"30803","userid":809,"age":50,"gender":"F","occupation":"marketing","birthyear":1967,"City":"AVERA","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"02159","userid":524,"age":56,"gender":"M","occupation":"educator","birthyear":1961}
+{"zipcode":"02324","userid":533,"age":43,"gender":"M","occupation":"librarian","birthyear":1974,"City":"BRIDGEWATER","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"26241","userid":513,"age":43,"gender":"M","occupation":"administrator","birthyear":1974,"City":"ELKINS","State":"WV","ZipCodeType":"STANDARD"}
+{"zipcode":"45660","userid":348,"age":24,"gender":"F","occupation":"student","birthyear":1993,"City":"PEEBLES","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"56567","userid":729,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"NEW YORK MILLS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"84105","userid":717,"age":24,"gender":"M","occupation":"technician","birthyear":1993,"City":"SALT LAKE CITY","State":"UT","ZipCodeType":"STANDARD"}
+{"zipcode":"94560","userid":780,"age":49,"gender":"M","occupation":"programmer","birthyear":1968,"City":"NEWARK","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"98103","userid":297,"age":29,"gender":"F","occupation":"educator","birthyear":1988,"City":"SEATTLE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"98117","userid":379,"age":44,"gender":"M","occupation":"programmer","birthyear":1973,"City":"SEATTLE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"25652","userid":849,"age":15,"gender":"F","occupation":"student","birthyear":2002,"City":"WHITMAN","State":"WV","ZipCodeType":"PO BOX"}
+{"zipcode":"27511","userid":584,"age":25,"gender":"M","occupation":"student","birthyear":1992,"City":"CARY","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"55038","userid":938,"age":38,"gender":"F","occupation":"technician","birthyear":1979,"City":"HUGO","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55414","userid":53,"age":26,"gender":"M","occupation":"programmer","birthyear":1991,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55414","userid":198,"age":21,"gender":"F","occupation":"student","birthyear":1996,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55414","userid":274,"age":20,"gender":"F","occupation":"student","birthyear":1997,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55414","userid":428,"age":28,"gender":"M","occupation":"student","birthyear":1989,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55414","userid":496,"age":21,"gender":"F","occupation":"student","birthyear":1996,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55414","userid":551,"age":25,"gender":"M","occupation":"programmer","birthyear":1992,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55414","userid":633,"age":35,"gender":"M","occupation":"programmer","birthyear":1982,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55414","userid":684,"age":28,"gender":"M","occupation":"student","birthyear":1989,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55414","userid":773,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"83814","userid":146,"age":45,"gender":"M","occupation":"artist","birthyear":1972,"City":"COEUR D ALENE","State":"ID","ZipCodeType":"STANDARD"}
+{"zipcode":"83814","userid":650,"age":42,"gender":"M","occupation":"engineer","birthyear":1975,"City":"COEUR D ALENE","State":"ID","ZipCodeType":"STANDARD"}
+{"zipcode":"98072","userid":737,"age":30,"gender":"M","occupation":"programmer","birthyear":1987,"City":"WOODINVILLE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"98072","userid":937,"age":48,"gender":"M","occupation":"educator","birthyear":1969,"City":"WOODINVILLE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"44212","userid":618,"age":15,"gender":"F","occupation":"student","birthyear":2002,"City":"BRUNSWICK","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"44212","userid":843,"age":35,"gender":"M","occupation":"librarian","birthyear":1982,"City":"BRUNSWICK","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"45243","userid":892,"age":36,"gender":"M","occupation":"other","birthyear":1981,"City":"CINCINNATI","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"02139","userid":150,"age":20,"gender":"F","occupation":"artist","birthyear":1997,"City":"CAMBRIDGE","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"02139","userid":325,"age":48,"gender":"M","occupation":"technician","birthyear":1969,"City":"CAMBRIDGE","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"10011","userid":509,"age":23,"gender":"M","occupation":"administrator","birthyear":1994,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"23237","userid":635,"age":22,"gender":"M","occupation":"other","birthyear":1995,"City":"RICHMOND","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"63146","userid":237,"age":49,"gender":"M","occupation":"administrator","birthyear":1968,"City":"SAINT LOUIS","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"48076","userid":440,"age":30,"gender":"M","occupation":"other","birthyear":1987,"City":"SOUTHFIELD","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"54302","userid":679,"age":20,"gender":"F","occupation":"student","birthyear":1997,"City":"GREEN BAY","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"77845","userid":577,"age":36,"gender":"F","occupation":"student","birthyear":1981,"City":"COLLEGE STATION","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"77845","userid":821,"age":37,"gender":"M","occupation":"engineer","birthyear":1980,"City":"COLLEGE STATION","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"90703","userid":10,"age":53,"gender":"M","occupation":"lawyer","birthyear":1964,"City":"CERRITOS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94305","userid":500,"age":28,"gender":"M","occupation":"administrator","birthyear":1989,"City":"STANFORD","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"02113","userid":763,"age":27,"gender":"M","occupation":"scientist","birthyear":1990,"City":"BOSTON","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"43215","userid":419,"age":37,"gender":"M","occupation":"lawyer","birthyear":1980,"City":"COLUMBUS","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"95660","userid":20,"age":42,"gender":"F","occupation":"homemaker","birthyear":1975,"City":"NORTH HIGHLANDS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"52246","userid":58,"age":27,"gender":"M","occupation":"programmer","birthyear":1990,"City":"IOWA CITY","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"55113","userid":166,"age":47,"gender":"M","occupation":"educator","birthyear":1970,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55113","userid":447,"age":30,"gender":"M","occupation":"administrator","birthyear":1987,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55113","userid":745,"age":42,"gender":"M","occupation":"writer","birthyear":1975,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"63645","userid":644,"age":51,"gender":"M","occupation":"retired","birthyear":1966,"City":"FREDERICKTOWN","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"78741","userid":32,"age":28,"gender":"F","occupation":"student","birthyear":1989,"City":"AUSTIN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"78741","userid":727,"age":25,"gender":"M","occupation":"student","birthyear":1992,"City":"AUSTIN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"01913","userid":91,"age":55,"gender":"M","occupation":"marketing","birthyear":1962,"City":"AMESBURY","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"08403","userid":59,"age":49,"gender":"M","occupation":"educator","birthyear":1968,"City":"LONGPORT","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"28734","userid":246,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"FRANKLIN","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"40243","userid":724,"age":31,"gender":"M","occupation":"executive","birthyear":1986,"City":"LOUISVILLE","State":"KY","ZipCodeType":"STANDARD"}
+{"zipcode":"91201","userid":467,"age":29,"gender":"M","occupation":"engineer","birthyear":1988,"City":"GLENDALE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"91201","userid":540,"age":28,"gender":"M","occupation":"engineer","birthyear":1989,"City":"GLENDALE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"40206","userid":22,"age":25,"gender":"M","occupation":"writer","birthyear":1992,"City":"LOUISVILLE","State":"KY","ZipCodeType":"STANDARD"}
+{"zipcode":"48825","userid":781,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"EAST LANSING","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"51157","userid":776,"age":30,"gender":"M","occupation":"librarian","birthyear":1987}
+{"zipcode":"89503","userid":87,"age":47,"gender":"M","occupation":"administrator","birthyear":1970,"City":"RENO","State":"NV","ZipCodeType":"STANDARD"}
+{"zipcode":"97215","userid":856,"age":43,"gender":"F","occupation":"marketing","birthyear":1974,"City":"PORTLAND","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"98501","userid":585,"age":69,"gender":"M","occupation":"librarian","birthyear":1948,"City":"OLYMPIA","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"49036","userid":925,"age":18,"gender":"F","occupation":"salesman","birthyear":1999,"City":"COLDWATER","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"96349","userid":708,"age":26,"gender":"F","occupation":"homemaker","birthyear":1991,"City":"FPO","State":"AP","ZipCodeType":"MILITARY"}
+{"zipcode":"15610","userid":162,"age":25,"gender":"M","occupation":"artist","birthyear":1992,"City":"ACME","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"33716","userid":605,"age":33,"gender":"M","occupation":"engineer","birthyear":1984,"City":"SAINT PETERSBURG","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"49512","userid":178,"age":26,"gender":"M","occupation":"other","birthyear":1991,"City":"GRAND RAPIDS","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"49512","userid":703,"age":26,"gender":"M","occupation":"educator","birthyear":1991,"City":"GRAND RAPIDS","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"54467","userid":38,"age":28,"gender":"F","occupation":"other","birthyear":1989,"City":"PLOVER","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"61755","userid":408,"age":23,"gender":"M","occupation":"student","birthyear":1994,"City":"MACKINAW","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"61755","userid":898,"age":23,"gender":"M","occupation":"homemaker","birthyear":1994,"City":"MACKINAW","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"20707","userid":514,"age":27,"gender":"M","occupation":"programmer","birthyear":1990,"City":"LAUREL","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"30220","userid":102,"age":38,"gender":"M","occupation":"programmer","birthyear":1979,"City":"GRANTVILLE","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"48322","userid":860,"age":70,"gender":"F","occupation":"retired","birthyear":1947,"City":"WEST BLOOMFIELD","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"73013","userid":811,"age":40,"gender":"F","occupation":"educator","birthyear":1977,"City":"EDMOND","State":"OK","ZipCodeType":"STANDARD"}
+{"zipcode":"84116","userid":597,"age":23,"gender":"M","occupation":"other","birthyear":1994,"City":"SALT LAKE CITY","State":"UT","ZipCodeType":"STANDARD"}
+{"zipcode":"91206","userid":715,"age":21,"gender":"M","occupation":"technician","birthyear":1996,"City":"GLENDALE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"91206","userid":753,"age":56,"gender":"M","occupation":"salesman","birthyear":1961,"City":"GLENDALE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"95938","userid":190,"age":30,"gender":"M","occupation":"administrator","birthyear":1987,"City":"DURHAM","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"08832","userid":143,"age":42,"gender":"M","occupation":"technician","birthyear":1975,"City":"KEASBEY","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"55117","userid":380,"age":32,"gender":"M","occupation":"engineer","birthyear":1985,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"95064","userid":276,"age":21,"gender":"M","occupation":"student","birthyear":1996,"City":"SANTA CRUZ","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"03060","userid":210,"age":39,"gender":"M","occupation":"engineer","birthyear":1978,"City":"NASHUA","State":"NH","ZipCodeType":"STANDARD"}
+{"zipcode":"19146","userid":707,"age":56,"gender":"F","occupation":"librarian","birthyear":1961,"City":"PHILADELPHIA","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"36117","userid":141,"age":49,"gender":"M","occupation":"programmer","birthyear":1968,"City":"MONTGOMERY","State":"AL","ZipCodeType":"STANDARD"}
+{"zipcode":"44106","userid":291,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"CLEVELAND","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"27713","userid":687,"age":31,"gender":"F","occupation":"healthcare","birthyear":1986,"City":"DURHAM","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"30350","userid":905,"age":27,"gender":"M","occupation":"other","birthyear":1990,"City":"ATLANTA","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"55105","userid":37,"age":23,"gender":"M","occupation":"student","birthyear":1994,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55105","userid":52,"age":18,"gender":"F","occupation":"student","birthyear":1999,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55105","userid":196,"age":49,"gender":"M","occupation":"writer","birthyear":1968,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55105","userid":352,"age":37,"gender":"F","occupation":"programmer","birthyear":1980,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55105","userid":421,"age":38,"gender":"F","occupation":"programmer","birthyear":1979,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55105","userid":653,"age":31,"gender":"M","occupation":"executive","birthyear":1986,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"77801","userid":258,"age":19,"gender":"F","occupation":"student","birthyear":1998,"City":"BRYAN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"80525","userid":41,"age":33,"gender":"M","occupation":"engineer","birthyear":1984,"City":"FORT COLLINS","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"80525","userid":92,"age":32,"gender":"M","occupation":"entertainment","birthyear":1985,"City":"FORT COLLINS","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"80525","userid":244,"age":28,"gender":"M","occupation":"technician","birthyear":1989,"City":"FORT COLLINS","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"02903","userid":651,"age":65,"gender":"M","occupation":"retired","birthyear":1952,"City":"PROVIDENCE","State":"RI","ZipCodeType":"STANDARD"}
+{"zipcode":"06811","userid":403,"age":37,"gender":"M","occupation":"other","birthyear":1980,"City":"DANBURY","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"52302","userid":174,"age":30,"gender":"F","occupation":"administrator","birthyear":1987,"City":"MARION","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"76234","userid":812,"age":22,"gender":"M","occupation":"technician","birthyear":1995,"City":"DECATUR","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"97330","userid":454,"age":57,"gender":"M","occupation":"other","birthyear":1960,"City":"CORVALLIS","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"98225","userid":409,"age":48,"gender":"M","occupation":"administrator","birthyear":1969,"City":"BELLINGHAM","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"37901","userid":339,"age":35,"gender":"M","occupation":"lawyer","birthyear":1982,"City":"KNOXVILLE","State":"TN","ZipCodeType":"PO BOX"}
+{"zipcode":"92121","userid":487,"age":22,"gender":"M","occupation":"engineer","birthyear":1995,"City":"SAN DIEGO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"95161","userid":191,"age":33,"gender":"M","occupation":"administrator","birthyear":1984,"City":"SAN JOSE","State":"CA","ZipCodeType":"PO BOX"}
+{"zipcode":"97006","userid":148,"age":33,"gender":"M","occupation":"engineer","birthyear":1984,"City":"BEAVERTON","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"31820","userid":456,"age":24,"gender":"M","occupation":"technician","birthyear":1993,"City":"MIDLAND","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"39042","userid":256,"age":35,"gender":"F","occupation":"none","birthyear":1982,"City":"BRANDON","State":"MS","ZipCodeType":"STANDARD"}
+{"zipcode":"91606","userid":423,"age":64,"gender":"M","occupation":"other","birthyear":1953,"City":"NORTH HOLLYWOOD","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"07310","userid":930,"age":28,"gender":"F","occupation":"scientist","birthyear":1989,"City":"JERSEY CITY","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"22202","userid":125,"age":30,"gender":"M","occupation":"lawyer","birthyear":1987,"City":"ARLINGTON","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"55305","userid":283,"age":28,"gender":"M","occupation":"programmer","birthyear":1989,"City":"HOPKINS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55417","userid":847,"age":29,"gender":"M","occupation":"student","birthyear":1988,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"98801","userid":921,"age":20,"gender":"F","occupation":"student","birthyear":1997,"City":"WENATCHEE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"46032","userid":575,"age":33,"gender":"M","occupation":"marketing","birthyear":1984,"City":"CARMEL","State":"IN","ZipCodeType":"STANDARD"}
+{"zipcode":"10019","userid":405,"age":22,"gender":"F","occupation":"healthcare","birthyear":1995,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10019","userid":478,"age":29,"gender":"M","occupation":"other","birthyear":1988,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"19102","userid":662,"age":55,"gender":"M","occupation":"librarian","birthyear":1962,"City":"PHILADELPHIA","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"47905","userid":603,"age":21,"gender":"M","occupation":"programmer","birthyear":1996,"City":"LAFAYETTE","State":"IN","ZipCodeType":"STANDARD"}
+{"zipcode":"90016","userid":808,"age":45,"gender":"M","occupation":"salesman","birthyear":1972,"City":"LOS ANGELES","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94703","userid":292,"age":35,"gender":"F","occupation":"programmer","birthyear":1982,"City":"BERKELEY","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"53703","userid":154,"age":25,"gender":"M","occupation":"student","birthyear":1992,"City":"MADISON","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"T8H1N","userid":74,"age":39,"gender":"M","occupation":"scientist","birthyear":1978}
+{"zipcode":"V3N4P","userid":145,"age":31,"gender":"M","occupation":"entertainment","birthyear":1986}
+{"zipcode":"L9G2B","userid":167,"age":37,"gender":"M","occupation":"other","birthyear":1980}
+{"zipcode":"E2A4H","userid":201,"age":27,"gender":"M","occupation":"writer","birthyear":1990}
+{"zipcode":"V0R2M","userid":333,"age":47,"gender":"M","occupation":"other","birthyear":1970}
+{"zipcode":"Y1A6B","userid":458,"age":47,"gender":"M","occupation":"technician","birthyear":1970}
+{"zipcode":"V5A2B","userid":490,"age":29,"gender":"F","occupation":"artist","birthyear":1988}
+{"zipcode":"M7A1A","userid":578,"age":31,"gender":"M","occupation":"administrator","birthyear":1986}
+{"zipcode":"M4J2K","userid":594,"age":46,"gender":"M","occupation":"educator","birthyear":1971}
+{"zipcode":"R3T5K","userid":599,"age":22,"gender":"F","occupation":"student","birthyear":1995}
+{"zipcode":"T8H1N","userid":634,"age":39,"gender":"M","occupation":"engineer","birthyear":1978}
+{"zipcode":"N4T1A","userid":709,"age":21,"gender":"M","occupation":"other","birthyear":1996}
+{"zipcode":"V0R2H","userid":719,"age":37,"gender":"F","occupation":"other","birthyear":1980}
+{"zipcode":"K7L5J","userid":779,"age":31,"gender":"M","occupation":"student","birthyear":1986}
+{"zipcode":"V1G4L","userid":857,"age":35,"gender":"F","occupation":"administrator","birthyear":1982}
+{"zipcode":"L1V3W","userid":901,"age":38,"gender":"M","occupation":"executive","birthyear":1979}
+{"zipcode":"N2L5N","userid":916,"age":27,"gender":"M","occupation":"engineer","birthyear":1990}
+{"zipcode":"E2E3R","userid":923,"age":21,"gender":"M","occupation":"student","birthyear":1996}
+{"zipcode":"10018","userid":836,"age":44,"gender":"M","occupation":"artist","birthyear":1973,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"12603","userid":520,"age":62,"gender":"M","occupation":"healthcare","birthyear":1955,"City":"POUGHKEEPSIE","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"53711","userid":491,"age":43,"gender":"F","occupation":"writer","birthyear":1974,"City":"MADISON","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"53711","userid":929,"age":44,"gender":"M","occupation":"scientist","birthyear":1973,"City":"MADISON","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"55408","userid":498,"age":26,"gender":"M","occupation":"writer","birthyear":1991,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55408","userid":630,"age":26,"gender":"F","occupation":"healthcare","birthyear":1991,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55408","userid":854,"age":29,"gender":"F","occupation":"student","birthyear":1988,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55408","userid":928,"age":21,"gender":"M","occupation":"student","birthyear":1996,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"40503","userid":882,"age":35,"gender":"M","occupation":"engineer","birthyear":1982,"City":"LEXINGTON","State":"KY","ZipCodeType":"STANDARD"}
+{"zipcode":"75230","userid":475,"age":30,"gender":"M","occupation":"programmer","birthyear":1987,"City":"DALLAS","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"85210","userid":693,"age":43,"gender":"F","occupation":"healthcare","birthyear":1974,"City":"MESA","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"95453","userid":550,"age":16,"gender":"F","occupation":"student","birthyear":2001,"City":"LAKEPORT","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"60440","userid":476,"age":28,"gender":"M","occupation":"student","birthyear":1989,"City":"BOLINGBROOK","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"08052","userid":545,"age":27,"gender":"M","occupation":"technician","birthyear":1990,"City":"MAPLE SHADE","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"10016","userid":273,"age":50,"gender":"F","occupation":"other","birthyear":1967,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10016","userid":668,"age":29,"gender":"F","occupation":"writer","birthyear":1988,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"50112","userid":497,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"GRINNELL","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"03062","userid":891,"age":51,"gender":"F","occupation":"administrator","birthyear":1966,"City":"NASHUA","State":"NH","ZipCodeType":"STANDARD"}
+{"zipcode":"07030","userid":176,"age":28,"gender":"M","occupation":"scientist","birthyear":1989,"City":"HOBOKEN","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"47401","userid":841,"age":45,"gender":"M","occupation":"doctor","birthyear":1972,"City":"BLOOMINGTON","State":"IN","ZipCodeType":"STANDARD"}
+{"zipcode":"94619","userid":289,"age":11,"gender":"M","occupation":"none","birthyear":2006,"City":"OAKLAND","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"29301","userid":910,"age":28,"gender":"M","occupation":"healthcare","birthyear":1989,"City":"SPARTANBURG","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"50266","userid":883,"age":49,"gender":"M","occupation":"librarian","birthyear":1968,"City":"WEST DES MOINES","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"55406","userid":277,"age":35,"gender":"F","occupation":"administrator","birthyear":1982,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55406","userid":840,"age":39,"gender":"M","occupation":"artist","birthyear":1978,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"94086","userid":305,"age":23,"gender":"M","occupation":"programmer","birthyear":1994,"City":"SUNNYVALE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94086","userid":852,"age":46,"gender":"M","occupation":"administrator","birthyear":1971,"City":"SUNNYVALE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"01754","userid":786,"age":36,"gender":"F","occupation":"engineer","birthyear":1981,"City":"MAYNARD","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"32303","userid":750,"age":28,"gender":"M","occupation":"administrator","birthyear":1989,"City":"TALLAHASSEE","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"55021","userid":449,"age":23,"gender":"M","occupation":"librarian","birthyear":1994,"City":"FARIBAULT","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"84107","userid":401,"age":46,"gender":"F","occupation":"healthcare","birthyear":1971,"City":"SALT LAKE CITY","State":"UT","ZipCodeType":"STANDARD"}
+{"zipcode":"02125","userid":477,"age":23,"gender":"F","occupation":"student","birthyear":1994,"City":"DORCHESTER","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"10021","userid":448,"age":23,"gender":"M","occupation":"entertainment","birthyear":1994,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10021","userid":470,"age":24,"gender":"M","occupation":"programmer","birthyear":1993,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10021","userid":516,"age":53,"gender":"F","occupation":"librarian","birthyear":1964,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"13820","userid":862,"age":25,"gender":"M","occupation":"executive","birthyear":1992,"City":"ONEONTA","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"32707","userid":563,"age":39,"gender":"F","occupation":"librarian","birthyear":1978,"City":"CASSELBERRY","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"55436","userid":30,"age":7,"gender":"M","occupation":"student","birthyear":2010,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"60659","userid":227,"age":46,"gender":"M","occupation":"executive","birthyear":1971,"City":"CHICAGO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"77081","userid":783,"age":30,"gender":"M","occupation":"marketing","birthyear":1987,"City":"HOUSTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"97007","userid":755,"age":44,"gender":"F","occupation":"educator","birthyear":1973,"City":"BEAVERTON","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"01810","userid":364,"age":63,"gender":"M","occupation":"engineer","birthyear":1954,"City":"ANDOVER","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"01810","userid":777,"age":63,"gender":"M","occupation":"programmer","birthyear":1954,"City":"ANDOVER","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"80303","userid":539,"age":53,"gender":"F","occupation":"administrator","birthyear":1964,"City":"BOULDER","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"94143","userid":345,"age":28,"gender":"F","occupation":"librarian","birthyear":1989,"City":"SAN FRANCISCO","State":"CA","ZipCodeType":"UNIQUE"}
+{"zipcode":"95823","userid":893,"age":25,"gender":"M","occupation":"student","birthyear":1992,"City":"SACRAMENTO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"98006","userid":97,"age":43,"gender":"M","occupation":"artist","birthyear":1974,"City":"BELLEVUE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"98006","userid":342,"age":25,"gender":"F","occupation":"other","birthyear":1992,"City":"BELLEVUE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"30002","userid":334,"age":32,"gender":"M","occupation":"librarian","birthyear":1985,"City":"AVONDALE ESTATES","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"50311","userid":432,"age":22,"gender":"M","occupation":"entertainment","birthyear":1995,"City":"DES MOINES","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"55320","userid":519,"age":22,"gender":"M","occupation":"other","birthyear":1995,"City":"CLEARWATER","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"60476","userid":688,"age":37,"gender":"F","occupation":"administrator","birthyear":1980,"City":"THORNTON","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"78756","userid":266,"age":62,"gender":"F","occupation":"administrator","birthyear":1955,"City":"AUSTIN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"24060","userid":320,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"BLACKSBURG","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"29440","userid":188,"age":42,"gender":"M","occupation":"student","birthyear":1975,"City":"GEORGETOWN","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"43017","userid":881,"age":39,"gender":"M","occupation":"marketing","birthyear":1978,"City":"DUBLIN","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"44224","userid":529,"age":47,"gender":"F","occupation":"administrator","birthyear":1970,"City":"STOW","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"44224","userid":629,"age":46,"gender":"F","occupation":"other","birthyear":1971,"City":"STOW","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"55106","userid":14,"age":45,"gender":"M","occupation":"scientist","birthyear":1972,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55106","userid":300,"age":26,"gender":"F","occupation":"programmer","birthyear":1991,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55106","userid":609,"age":13,"gender":"F","occupation":"student","birthyear":2004,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"90630","userid":111,"age":57,"gender":"M","occupation":"engineer","birthyear":1960,"City":"CYPRESS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"91711","userid":310,"age":37,"gender":"M","occupation":"educator","birthyear":1980,"City":"CLAREMONT","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"91711","userid":725,"age":21,"gender":"M","occupation":"student","birthyear":1996,"City":"CLAREMONT","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"95521","userid":642,"age":18,"gender":"F","occupation":"student","birthyear":1999,"City":"ARCATA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"37771","userid":481,"age":73,"gender":"M","occupation":"retired","birthyear":1944,"City":"LENOIR CITY","State":"TN","ZipCodeType":"STANDARD"}
+{"zipcode":"97214","userid":62,"age":27,"gender":"F","occupation":"administrator","birthyear":1990,"City":"PORTLAND","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"49705","userid":434,"age":16,"gender":"F","occupation":"student","birthyear":2001,"City":"AFTON","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"61820","userid":666,"age":44,"gender":"M","occupation":"administrator","birthyear":1973,"City":"CHAMPAIGN","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"61820","userid":804,"age":39,"gender":"M","occupation":"educator","birthyear":1978,"City":"CHAMPAIGN","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"61820","userid":886,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"CHAMPAIGN","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"73439","userid":127,"age":33,"gender":"M","occupation":"none","birthyear":1984,"City":"KINGSTON","State":"OK","ZipCodeType":"STANDARD"}
+{"zipcode":"01602","userid":426,"age":55,"gender":"M","occupation":"educator","birthyear":1962,"City":"WORCESTER","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"61401","userid":212,"age":49,"gender":"F","occupation":"educator","birthyear":1968,"City":"GALESBURG","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"90840","userid":192,"age":42,"gender":"M","occupation":"educator","birthyear":1975,"City":"LONG BEACH","State":"CA","ZipCodeType":"UNIQUE"}
+{"zipcode":"94117","userid":344,"age":30,"gender":"F","occupation":"librarian","birthyear":1987,"City":"SAN FRANCISCO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"37725","userid":820,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"DANDRIDGE","State":"TN","ZipCodeType":"STANDARD"}
+{"zipcode":"63119","userid":270,"age":18,"gender":"F","occupation":"student","birthyear":1999,"City":"SAINT LOUIS","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"70116","userid":918,"age":40,"gender":"M","occupation":"scientist","birthyear":1977,"City":"NEW ORLEANS","State":"LA","ZipCodeType":"STANDARD"}
+{"zipcode":"78390","userid":850,"age":34,"gender":"M","occupation":"technician","birthyear":1983,"City":"TAFT","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"91919","userid":671,"age":21,"gender":"M","occupation":"programmer","birthyear":1996}
+{"zipcode":"93555","userid":195,"age":42,"gender":"M","occupation":"scientist","birthyear":1975,"City":"RIDGECREST","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"93555","userid":807,"age":41,"gender":"F","occupation":"healthcare","birthyear":1976,"City":"RIDGECREST","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"02859","userid":378,"age":35,"gender":"M","occupation":"student","birthyear":1982,"City":"PASCOAG","State":"RI","ZipCodeType":"STANDARD"}
+{"zipcode":"05146","userid":101,"age":15,"gender":"M","occupation":"student","birthyear":2002,"City":"GRAFTON","State":"VT","ZipCodeType":"STANDARD"}
+{"zipcode":"50322","userid":823,"age":27,"gender":"M","occupation":"artist","birthyear":1990,"City":"URBANDALE","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"17961","userid":580,"age":16,"gender":"M","occupation":"student","birthyear":2001,"City":"ORWIGSBURG","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"33308","userid":443,"age":35,"gender":"M","occupation":"salesman","birthyear":1982,"City":"FORT LAUDERDALE","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"62901","userid":553,"age":58,"gender":"M","occupation":"educator","birthyear":1959,"City":"CARBONDALE","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"62901","userid":554,"age":32,"gender":"M","occupation":"scientist","birthyear":1985,"City":"CARBONDALE","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"62901","userid":754,"age":59,"gender":"F","occupation":"librarian","birthyear":1958,"City":"CARBONDALE","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"78205","userid":220,"age":30,"gender":"M","occupation":"librarian","birthyear":1987,"City":"SAN ANTONIO","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"98682","userid":233,"age":38,"gender":"M","occupation":"engineer","birthyear":1979,"City":"VANCOUVER","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"84103","userid":249,"age":25,"gender":"M","occupation":"student","birthyear":1992,"City":"SALT LAKE CITY","State":"UT","ZipCodeType":"STANDARD"}
+{"zipcode":"98038","userid":510,"age":34,"gender":"M","occupation":"other","birthyear":1983,"City":"MAPLE VALLEY","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"21206","userid":418,"age":55,"gender":"F","occupation":"none","birthyear":1962,"City":"BALTIMORE","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"47906","userid":223,"age":19,"gender":"F","occupation":"student","birthyear":1998,"City":"WEST LAFAYETTE","State":"IN","ZipCodeType":"STANDARD"}
+{"zipcode":"60202","userid":180,"age":22,"gender":"F","occupation":"administrator","birthyear":1995,"City":"EVANSTON","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"27708","userid":183,"age":33,"gender":"M","occupation":"scientist","birthyear":1984,"City":"DURHAM","State":"NC","ZipCodeType":"UNIQUE"}
+{"zipcode":"33484","userid":897,"age":30,"gender":"M","occupation":"other","birthyear":1987,"City":"DELRAY BEACH","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"55013","userid":441,"age":50,"gender":"M","occupation":"technician","birthyear":1967,"City":"CHISAGO CITY","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"94131","userid":581,"age":37,"gender":"M","occupation":"other","birthyear":1980,"City":"SAN FRANCISCO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"97124","userid":526,"age":30,"gender":"M","occupation":"marketing","birthyear":1987,"City":"HILLSBORO","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"27705","userid":615,"age":38,"gender":"M","occupation":"educator","birthyear":1979,"City":"DURHAM","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"29464","userid":544,"age":44,"gender":"F","occupation":"other","birthyear":1973,"City":"MOUNT PLEASANT","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"68106","userid":89,"age":43,"gender":"F","occupation":"administrator","birthyear":1974,"City":"OMAHA","State":"NE","ZipCodeType":"STANDARD"}
+{"zipcode":"84010","userid":57,"age":16,"gender":"M","occupation":"none","birthyear":2001,"City":"BOUNTIFUL","State":"UT","ZipCodeType":"STANDARD"}
+{"zipcode":"94040","userid":530,"age":29,"gender":"M","occupation":"engineer","birthyear":1988,"City":"MOUNTAIN VIEW","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94708","userid":473,"age":29,"gender":"M","occupation":"student","birthyear":1988,"City":"BERKELEY","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"02341","userid":468,"age":28,"gender":"M","occupation":"engineer","birthyear":1989,"City":"HANSON","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"03052","userid":495,"age":29,"gender":"M","occupation":"engineer","birthyear":1988,"City":"LITCHFIELD","State":"NH","ZipCodeType":"STANDARD"}
+{"zipcode":"50670","userid":366,"age":20,"gender":"F","occupation":"student","birthyear":1997,"City":"SHELL ROCK","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"53188","userid":574,"age":56,"gender":"M","occupation":"educator","birthyear":1961,"City":"WAUKESHA","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"75218","userid":463,"age":48,"gender":"F","occupation":"healthcare","birthyear":1969,"City":"DALLAS","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"77459","userid":471,"age":10,"gender":"M","occupation":"student","birthyear":2007,"City":"MISSOURI CITY","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"92653","userid":445,"age":21,"gender":"M","occupation":"writer","birthyear":1996,"City":"LAGUNA HILLS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"93063","userid":588,"age":18,"gender":"F","occupation":"student","birthyear":1999,"City":"SIMI VALLEY","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"95628","userid":239,"age":39,"gender":"M","occupation":"artist","birthyear":1978,"City":"FAIR OAKS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"92115","userid":504,"age":40,"gender":"F","occupation":"writer","birthyear":1977,"City":"SAN DIEGO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"60035","userid":313,"age":41,"gender":"M","occupation":"marketing","birthyear":1976,"City":"HIGHLAND PARK","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"85233","userid":362,"age":35,"gender":"F","occupation":"homemaker","birthyear":1982,"City":"GILBERT","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"01581","userid":298,"age":44,"gender":"M","occupation":"executive","birthyear":1973,"City":"WESTBOROUGH","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"19711","userid":525,"age":27,"gender":"F","occupation":"administrator","birthyear":1990,"City":"NEWARK","State":"DE","ZipCodeType":"STANDARD"}
+{"zipcode":"30068","userid":21,"age":26,"gender":"M","occupation":"writer","birthyear":1991,"City":"MARIETTA","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"40504","userid":332,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"LEXINGTON","State":"KY","ZipCodeType":"STANDARD"}
+{"zipcode":"91040","userid":784,"age":47,"gender":"M","occupation":"administrator","birthyear":1970,"City":"SUNLAND","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"11727","userid":217,"age":22,"gender":"M","occupation":"other","birthyear":1995,"City":"CORAM","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"21012","userid":488,"age":48,"gender":"M","occupation":"technician","birthyear":1969,"City":"ARNOLD","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"55337","userid":69,"age":24,"gender":"M","occupation":"engineer","birthyear":1993,"City":"BURNSVILLE","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55337","userid":674,"age":13,"gender":"F","occupation":"student","birthyear":2004,"City":"BURNSVILLE","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55337","userid":800,"age":25,"gender":"M","occupation":"programmer","birthyear":1992,"City":"BURNSVILLE","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55337","userid":879,"age":33,"gender":"F","occupation":"administrator","birthyear":1984,"City":"BURNSVILLE","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55337","userid":884,"age":44,"gender":"M","occupation":"engineer","birthyear":1973,"City":"BURNSVILLE","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"10314","userid":656,"age":48,"gender":"M","occupation":"educator","birthyear":1969,"City":"STATEN ISLAND","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"51250","userid":646,"age":17,"gender":"F","occupation":"student","birthyear":2000,"City":"SIOUX CENTER","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"06405","userid":12,"age":28,"gender":"F","occupation":"other","birthyear":1989,"City":"BRANFORD","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"18301","userid":315,"age":31,"gender":"M","occupation":"educator","birthyear":1986,"City":"EAST STROUDSBURG","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"35802","userid":875,"age":24,"gender":"F","occupation":"student","birthyear":1993,"City":"HUNTSVILLE","State":"AL","ZipCodeType":"STANDARD"}
+{"zipcode":"60657","userid":655,"age":50,"gender":"F","occupation":"healthcare","birthyear":1967,"City":"CHICAGO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"02320","userid":600,"age":34,"gender":"M","occupation":"programmer","birthyear":1983}
+{"zipcode":"79070","userid":612,"age":36,"gender":"M","occupation":"educator","birthyear":1981,"City":"PERRYTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"80919","userid":749,"age":33,"gender":"M","occupation":"other","birthyear":1984,"City":"COLORADO SPRINGS","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"85016","userid":390,"age":42,"gender":"F","occupation":"writer","birthyear":1975,"City":"PHOENIX","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"01701","userid":926,"age":49,"gender":"M","occupation":"entertainment","birthyear":1968,"City":"FRAMINGHAM","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"20685","userid":221,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"SAINT LEONARD","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"32301","userid":203,"age":25,"gender":"F","occupation":"student","birthyear":1992,"City":"TALLAHASSEE","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"32301","userid":895,"age":31,"gender":"F","occupation":"librarian","birthyear":1986,"City":"TALLAHASSEE","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"44092","userid":395,"age":43,"gender":"M","occupation":"other","birthyear":1974,"City":"WICKLIFFE","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"60115","userid":130,"age":20,"gender":"M","occupation":"none","birthyear":1997,"City":"DEKALB","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"47024","userid":744,"age":35,"gender":"M","occupation":"marketing","birthyear":1982,"City":"LAUREL","State":"IN","ZipCodeType":"STANDARD"}
+{"zipcode":"49428","userid":494,"age":38,"gender":"F","occupation":"administrator","birthyear":1979,"City":"JENISON","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"60630","userid":460,"age":44,"gender":"F","occupation":"other","birthyear":1973,"City":"CHICAGO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"60630","userid":733,"age":44,"gender":"F","occupation":"other","birthyear":1973,"City":"CHICAGO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"61455","userid":349,"age":68,"gender":"M","occupation":"retired","birthyear":1949,"City":"MACOMB","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"80209","userid":829,"age":48,"gender":"M","occupation":"writer","birthyear":1969,"City":"DENVER","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"83702","userid":389,"age":44,"gender":"F","occupation":"writer","birthyear":1973,"City":"BOISE","State":"ID","ZipCodeType":"STANDARD"}
+{"zipcode":"83702","userid":880,"age":13,"gender":"M","occupation":"student","birthyear":2004,"City":"BOISE","State":"ID","ZipCodeType":"STANDARD"}
+{"zipcode":"90405","userid":680,"age":33,"gender":"M","occupation":"lawyer","birthyear":1984,"City":"SANTA MONICA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"93402","userid":200,"age":40,"gender":"M","occupation":"programmer","birthyear":1977,"City":"LOS OSOS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"38401","userid":135,"age":23,"gender":"M","occupation":"student","birthyear":1994,"City":"COLUMBIA","State":"TN","ZipCodeType":"STANDARD"}
+{"zipcode":"92037","userid":207,"age":39,"gender":"M","occupation":"marketing","birthyear":1978,"City":"LA JOLLA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"06513","userid":218,"age":37,"gender":"M","occupation":"administrator","birthyear":1980,"City":"NEW HAVEN","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"23112","userid":93,"age":48,"gender":"M","occupation":"executive","birthyear":1969,"City":"MIDLOTHIAN","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"77042","userid":697,"age":25,"gender":"M","occupation":"other","birthyear":1992,"City":"HOUSTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"77042","userid":832,"age":24,"gender":"M","occupation":"technician","birthyear":1993,"City":"HOUSTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"06779","userid":328,"age":51,"gender":"M","occupation":"administrator","birthyear":1966,"City":"OAKVILLE","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"62522","userid":797,"age":44,"gender":"F","occupation":"other","birthyear":1973,"City":"DECATUR","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"66046","userid":372,"age":25,"gender":"F","occupation":"student","birthyear":1992,"City":"LAWRENCE","State":"KS","ZipCodeType":"STANDARD"}
+{"zipcode":"80236","userid":134,"age":31,"gender":"M","occupation":"programmer","birthyear":1986,"City":"DENVER","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"98034","userid":71,"age":39,"gender":"M","occupation":"scientist","birthyear":1978,"City":"KIRKLAND","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"75240","userid":63,"age":31,"gender":"M","occupation":"marketing","birthyear":1986,"City":"DALLAS","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"76059","userid":346,"age":34,"gender":"M","occupation":"other","birthyear":1983,"City":"KEENE","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"77048","userid":826,"age":28,"gender":"M","occupation":"artist","birthyear":1989,"City":"HOUSTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"94702","userid":234,"age":60,"gender":"M","occupation":"retired","birthyear":1957,"City":"BERKELEY","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"11231","userid":214,"age":26,"gender":"F","occupation":"librarian","birthyear":1991,"City":"BROOKLYN","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"11231","userid":865,"age":25,"gender":"M","occupation":"artist","birthyear":1992,"City":"BROOKLYN","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"11577","userid":835,"age":44,"gender":"F","occupation":"executive","birthyear":1973,"City":"ROSLYN HEIGHTS","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"12205","userid":792,"age":40,"gender":"M","occupation":"programmer","birthyear":1977,"City":"ALBANY","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"89104","userid":702,"age":37,"gender":"M","occupation":"other","birthyear":1980,"City":"LAS VEGAS","State":"NV","ZipCodeType":"STANDARD"}
+{"zipcode":"94720","userid":748,"age":28,"gender":"M","occupation":"administrator","birthyear":1989,"City":"BERKELEY","State":"CA","ZipCodeType":"UNIQUE"}
+{"zipcode":"02136","userid":813,"age":14,"gender":"F","occupation":"student","birthyear":2003,"City":"HYDE PARK","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"45439","userid":689,"age":25,"gender":"M","occupation":"other","birthyear":1992,"City":"DAYTON","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"92020","userid":710,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"EL CAJON","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94533","userid":24,"age":21,"gender":"F","occupation":"artist","birthyear":1996,"City":"FAIRFIELD","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94533","userid":422,"age":26,"gender":"M","occupation":"entertainment","birthyear":1991,"City":"FAIRFIELD","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"21044","userid":26,"age":49,"gender":"M","occupation":"engineer","birthyear":1968,"City":"COLUMBIA","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"85281","userid":793,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"TEMPE","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"55116","userid":373,"age":24,"gender":"F","occupation":"other","birthyear":1993,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55116","userid":899,"age":32,"gender":"M","occupation":"other","birthyear":1985,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"61462","userid":678,"age":50,"gender":"M","occupation":"educator","birthyear":1967,"City":"MONMOUTH","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"94591","userid":564,"age":65,"gender":"M","occupation":"retired","birthyear":1952,"City":"VALLEJO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"31211","userid":287,"age":21,"gender":"M","occupation":"salesman","birthyear":1996,"City":"MACON","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"99206","userid":371,"age":36,"gender":"M","occupation":"engineer","birthyear":1981,"City":"SPOKANE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"23509","userid":683,"age":42,"gender":"M","occupation":"librarian","birthyear":1975,"City":"NORFOLK","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"29205","userid":429,"age":27,"gender":"M","occupation":"student","birthyear":1990,"City":"COLUMBIA","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"06512","userid":912,"age":51,"gender":"M","occupation":"other","birthyear":1966,"City":"EAST HAVEN","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"20009","userid":128,"age":24,"gender":"F","occupation":"marketing","birthyear":1993,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"20009","userid":365,"age":29,"gender":"M","occupation":"lawyer","birthyear":1988,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"20009","userid":437,"age":27,"gender":"F","occupation":"other","birthyear":1990,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"20009","userid":669,"age":37,"gender":"M","occupation":"other","birthyear":1980,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"20009","userid":805,"age":27,"gender":"F","occupation":"other","birthyear":1990,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"22207","userid":172,"age":55,"gender":"M","occupation":"marketing","birthyear":1962,"City":"ARLINGTON","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"06333","userid":453,"age":18,"gender":"M","occupation":"student","birthyear":1999,"City":"EAST LYME","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"60615","userid":124,"age":34,"gender":"M","occupation":"student","birthyear":1983,"City":"CHICAGO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"63021","userid":864,"age":27,"gender":"M","occupation":"programmer","birthyear":1990,"City":"BALLWIN","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"75013","userid":114,"age":27,"gender":"M","occupation":"programmer","birthyear":1990,"City":"ALLEN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"22206","userid":122,"age":32,"gender":"F","occupation":"writer","birthyear":1985,"City":"ARLINGTON","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"22206","userid":740,"age":25,"gender":"F","occupation":"educator","birthyear":1992,"City":"ARLINGTON","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"23322","userid":785,"age":32,"gender":"M","occupation":"engineer","birthyear":1985,"City":"CHESAPEAKE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"29210","userid":742,"age":35,"gender":"M","occupation":"student","birthyear":1982,"City":"COLUMBIA","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"55107","userid":25,"age":39,"gender":"M","occupation":"engineer","birthyear":1978,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"61073","userid":904,"age":17,"gender":"F","occupation":"student","birthyear":2000,"City":"ROSCOE","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"85202","userid":261,"age":28,"gender":"M","occupation":"administrator","birthyear":1989,"City":"MESA","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"01945","userid":571,"age":34,"gender":"M","occupation":"artist","birthyear":1983,"City":"MARBLEHEAD","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"06371","userid":205,"age":47,"gender":"M","occupation":"lawyer","birthyear":1970,"City":"OLD LYME","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"06437","userid":932,"age":58,"gender":"M","occupation":"educator","birthyear":1959,"City":"GUILFORD","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"28018","userid":452,"age":35,"gender":"M","occupation":"administrator","birthyear":1982,"City":"BOSTIC","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"42459","userid":35,"age":20,"gender":"F","occupation":"homemaker","birthyear":1997,"City":"STURGIS","State":"KY","ZipCodeType":"STANDARD"}
+{"zipcode":"90064","userid":264,"age":36,"gender":"F","occupation":"writer","birthyear":1981,"City":"LOS ANGELES","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"95123","userid":543,"age":33,"gender":"M","occupation":"scientist","birthyear":1984,"City":"SAN JOSE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"78209","userid":942,"age":48,"gender":"F","occupation":"librarian","birthyear":1969,"City":"SAN ANTONIO","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"20723","userid":625,"age":27,"gender":"M","occupation":"programmer","birthyear":1990,"City":"LAUREL","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"45810","userid":647,"age":40,"gender":"M","occupation":"educator","birthyear":1977,"City":"ADA","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"73071","userid":311,"age":32,"gender":"M","occupation":"technician","birthyear":1985,"City":"NORMAN","State":"OK","ZipCodeType":"STANDARD"}
+{"zipcode":"12866","userid":768,"age":29,"gender":"M","occupation":"administrator","birthyear":1988,"City":"SARATOGA SPRINGS","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"45680","userid":549,"age":42,"gender":"M","occupation":"scientist","birthyear":1975,"City":"SOUTH POINT","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"54248","userid":659,"age":31,"gender":"M","occupation":"educator","birthyear":1986}
+{"zipcode":"77841","userid":943,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"COLLEGE STATION","State":"TX","ZipCodeType":"PO BOX"}
+{"zipcode":"93550","userid":290,"age":40,"gender":"M","occupation":"engineer","birthyear":1977,"City":"PALMDALE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"98121","userid":661,"age":28,"gender":"M","occupation":"programmer","birthyear":1989,"City":"SEATTLE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"87501","userid":363,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"SANTA FE","State":"NM","ZipCodeType":"STANDARD"}
+{"zipcode":"93109","userid":406,"age":52,"gender":"M","occupation":"educator","birthyear":1965,"City":"SANTA BARBARA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"06906","userid":698,"age":28,"gender":"F","occupation":"programmer","birthyear":1989,"City":"STAMFORD","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"08816","userid":75,"age":24,"gender":"M","occupation":"entertainment","birthyear":1993,"City":"EAST BRUNSWICK","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"55439","userid":301,"age":24,"gender":"M","occupation":"student","birthyear":1993,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"75204","userid":383,"age":42,"gender":"M","occupation":"administrator","birthyear":1975,"City":"DALLAS","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"98199","userid":430,"age":38,"gender":"M","occupation":"scientist","birthyear":1979,"City":"SEATTLE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"48197","userid":23,"age":30,"gender":"F","occupation":"artist","birthyear":1987,"City":"YPSILANTI","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"48197","userid":354,"age":29,"gender":"F","occupation":"librarian","birthyear":1988,"City":"YPSILANTI","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"11201","userid":617,"age":27,"gender":"F","occupation":"writer","birthyear":1990,"City":"BROOKLYN","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"14627","userid":566,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"ROCHESTER","State":"NY","ZipCodeType":"PO BOX"}
+{"zipcode":"14627","userid":570,"age":26,"gender":"M","occupation":"educator","birthyear":1991,"City":"ROCHESTER","State":"NY","ZipCodeType":"PO BOX"}
+{"zipcode":"32067","userid":3,"age":23,"gender":"M","occupation":"writer","birthyear":1994,"City":"ORANGE PARK","State":"FL","ZipCodeType":"PO BOX"}
+{"zipcode":"19716","userid":799,"age":49,"gender":"F","occupation":"administrator","birthyear":1968,"City":"NEWARK","State":"DE","ZipCodeType":"STANDARD"}
+{"zipcode":"91335","userid":369,"age":24,"gender":"M","occupation":"student","birthyear":1993,"City":"RESEDA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"70808","userid":157,"age":57,"gender":"M","occupation":"engineer","birthyear":1960,"City":"BATON ROUGE","State":"LA","ZipCodeType":"STANDARD"}
+{"zipcode":"92154","userid":801,"age":22,"gender":"M","occupation":"writer","birthyear":1995,"City":"SAN DIEGO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"92626","userid":416,"age":20,"gender":"F","occupation":"student","birthyear":1997,"City":"COSTA MESA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"92626","userid":658,"age":33,"gender":"M","occupation":"programmer","birthyear":1984,"City":"COSTA MESA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"01375","userid":838,"age":23,"gender":"M","occupation":"student","birthyear":1994,"City":"SUNDERLAND","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"04102","userid":523,"age":50,"gender":"F","occupation":"administrator","birthyear":1967,"City":"PORTLAND","State":"ME","ZipCodeType":"STANDARD"}
+{"zipcode":"21201","userid":752,"age":60,"gender":"M","occupation":"retired","birthyear":1957,"City":"BALTIMORE","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"55454","userid":307,"age":25,"gender":"M","occupation":"student","birthyear":1992,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55454","userid":517,"age":24,"gender":"M","occupation":"student","birthyear":1993,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55454","userid":632,"age":18,"gender":"M","occupation":"student","birthyear":1999,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55454","userid":706,"age":23,"gender":"M","occupation":"student","birthyear":1994,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"14216","userid":587,"age":26,"gender":"M","occupation":"other","birthyear":1991,"City":"BUFFALO","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"14216","userid":770,"age":28,"gender":"M","occupation":"student","birthyear":1989,"City":"BUFFALO","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"14216","userid":919,"age":25,"gender":"M","occupation":"other","birthyear":1992,"City":"BUFFALO","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"28450","userid":507,"age":18,"gender":"F","occupation":"writer","birthyear":1999,"City":"LAKE WACCAMAW","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"55122","userid":643,"age":39,"gender":"M","occupation":"scientist","birthyear":1978,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"60641","userid":153,"age":25,"gender":"M","occupation":"student","birthyear":1992,"City":"CHICAGO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"70802","userid":309,"age":40,"gender":"M","occupation":"scientist","birthyear":1977,"City":"BATON ROUGE","State":"LA","ZipCodeType":"STANDARD"}
+{"zipcode":"95050","userid":762,"age":32,"gender":"M","occupation":"administrator","birthyear":1985,"City":"SANTA CLARA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"01960","userid":778,"age":34,"gender":"M","occupation":"student","birthyear":1983,"City":"PEABODY","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"09645","userid":858,"age":63,"gender":"M","occupation":"educator","birthyear":1954,"City":"FPO","State":"AE","ZipCodeType":"MILITARY"}
+{"zipcode":"29646","userid":851,"age":18,"gender":"M","occupation":"other","birthyear":1999,"City":"GREENWOOD","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"95076","userid":308,"age":60,"gender":"M","occupation":"retired","birthyear":1957,"City":"WATSONVILLE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"15235","userid":326,"age":41,"gender":"M","occupation":"administrator","birthyear":1976,"City":"PITTSBURGH","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"54494","userid":705,"age":21,"gender":"F","occupation":"student","birthyear":1996,"City":"WISCONSIN RAPIDS","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"30011","userid":457,"age":33,"gender":"F","occupation":"salesman","birthyear":1984,"City":"AUBURN","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"40256","userid":482,"age":18,"gender":"F","occupation":"student","birthyear":1999,"City":"LOUISVILLE","State":"KY","ZipCodeType":"PO BOX"}
+{"zipcode":"63130","userid":108,"age":44,"gender":"M","occupation":"educator","birthyear":1973,"City":"SAINT LOUIS","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"90034","userid":589,"age":21,"gender":"M","occupation":"lawyer","birthyear":1996,"City":"LOS ANGELES","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"90034","userid":751,"age":24,"gender":"F","occupation":"other","birthyear":1993,"City":"LOS ANGELES","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"02154","userid":194,"age":38,"gender":"M","occupation":"administrator","birthyear":1979}
+{"zipcode":"02154","userid":607,"age":49,"gender":"F","occupation":"healthcare","birthyear":1968}
+{"zipcode":"10003","userid":31,"age":24,"gender":"M","occupation":"artist","birthyear":1993,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10003","userid":385,"age":36,"gender":"M","occupation":"writer","birthyear":1981,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10003","userid":560,"age":32,"gender":"M","occupation":"student","birthyear":1985,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10003","userid":567,"age":24,"gender":"M","occupation":"entertainment","birthyear":1993,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10003","userid":608,"age":22,"gender":"M","occupation":"other","birthyear":1995,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"44124","userid":238,"age":42,"gender":"F","occupation":"administrator","birthyear":1975,"City":"CLEVELAND","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"68147","userid":552,"age":45,"gender":"M","occupation":"other","birthyear":1972,"City":"BELLEVUE","State":"NE","ZipCodeType":"STANDARD"}
+{"zipcode":"80538","userid":726,"age":25,"gender":"F","occupation":"administrator","birthyear":1992,"City":"LOVELAND","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"33755","userid":796,"age":32,"gender":"F","occupation":"writer","birthyear":1985,"City":"CLEARWATER","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"85719","userid":735,"age":29,"gender":"F","occupation":"healthcare","birthyear":1988,"City":"TUCSON","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"97520","userid":592,"age":18,"gender":"M","occupation":"student","birthyear":1999,"City":"ASHLAND","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"52241","userid":80,"age":34,"gender":"F","occupation":"administrator","birthyear":1983,"City":"CORALVILLE","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"92374","userid":399,"age":25,"gender":"M","occupation":"other","birthyear":1992,"City":"REDLANDS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"21227","userid":610,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"HALETHORPE","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"26506","userid":686,"age":32,"gender":"M","occupation":"educator","birthyear":1985,"City":"MORGANTOWN","State":"WV","ZipCodeType":"STANDARD"}
+{"zipcode":"48446","userid":451,"age":16,"gender":"M","occupation":"student","birthyear":2001,"City":"LAPEER","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"98101","userid":6,"age":42,"gender":"M","occupation":"executive","birthyear":1975,"City":"SEATTLE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"05201","userid":8,"age":36,"gender":"M","occupation":"administrator","birthyear":1981,"City":"BENNINGTON","State":"VT","ZipCodeType":"STANDARD"}
+{"zipcode":"17331","userid":722,"age":50,"gender":"F","occupation":"homemaker","birthyear":1967,"City":"HANOVER","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"94608","userid":381,"age":33,"gender":"M","occupation":"artist","birthyear":1984,"City":"EMERYVILLE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"97403","userid":185,"age":53,"gender":"F","occupation":"librarian","birthyear":1964,"City":"EUGENE","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"32605","userid":211,"age":66,"gender":"M","occupation":"salesman","birthyear":1951,"City":"GAINESVILLE","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"43537","userid":4,"age":24,"gender":"M","occupation":"technician","birthyear":1993,"City":"MAUMEE","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"92093","userid":591,"age":57,"gender":"F","occupation":"librarian","birthyear":1960,"City":"LA JOLLA","State":"CA","ZipCodeType":"UNIQUE"}
+{"zipcode":"16125","userid":117,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"GREENVILLE","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"63132","userid":558,"age":56,"gender":"F","occupation":"writer","birthyear":1961,"City":"SAINT LOUIS","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"64131","userid":798,"age":40,"gender":"F","occupation":"writer","birthyear":1977,"City":"KANSAS CITY","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"84302","userid":541,"age":19,"gender":"F","occupation":"student","birthyear":1998,"City":"BRIGHAM CITY","State":"UT","ZipCodeType":"STANDARD"}
+{"zipcode":"93003","userid":582,"age":17,"gender":"M","occupation":"student","birthyear":2000,"City":"VENTURA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"95014","userid":189,"age":32,"gender":"M","occupation":"artist","birthyear":1985,"City":"CUPERTINO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"98281","userid":576,"age":48,"gender":"M","occupation":"executive","birthyear":1969,"City":"POINT ROBERTS","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"07733","userid":252,"age":42,"gender":"M","occupation":"engineer","birthyear":1975,"City":"HOLMDEL","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"20784","userid":240,"age":23,"gender":"F","occupation":"educator","birthyear":1994,"City":"HYATTSVILLE","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"91105","userid":704,"age":51,"gender":"F","occupation":"librarian","birthyear":1966,"City":"PASADENA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"99603","userid":121,"age":54,"gender":"M","occupation":"librarian","birthyear":1963,"City":"HOMER","State":"AK","ZipCodeType":"STANDARD"}
+{"zipcode":"29206","userid":13,"age":47,"gender":"M","occupation":"educator","birthyear":1970,"City":"COLUMBIA","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"53705","userid":169,"age":52,"gender":"F","occupation":"other","birthyear":1965,"City":"MADISON","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"58202","userid":225,"age":51,"gender":"F","occupation":"administrator","birthyear":1966,"City":"GRAND FORKS","State":"ND","ZipCodeType":"STANDARD"}
+{"zipcode":"77005","userid":257,"age":17,"gender":"M","occupation":"student","birthyear":2000,"City":"HOUSTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"91903","userid":569,"age":34,"gender":"M","occupation":"educator","birthyear":1983,"City":"ALPINE","State":"CA","ZipCodeType":"PO BOX"}
+{"zipcode":"97301","userid":15,"age":49,"gender":"F","occupation":"educator","birthyear":1968,"City":"SALEM","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"97301","userid":350,"age":32,"gender":"M","occupation":"student","birthyear":1985,"City":"SALEM","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"97301","userid":890,"age":32,"gender":"M","occupation":"student","birthyear":1985,"City":"SALEM","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"05452","userid":825,"age":44,"gender":"M","occupation":"engineer","birthyear":1973,"City":"ESSEX JUNCTION","State":"VT","ZipCodeType":"STANDARD"}
+{"zipcode":"08360","userid":156,"age":25,"gender":"M","occupation":"educator","birthyear":1992,"City":"VINELAND","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"29379","userid":77,"age":30,"gender":"M","occupation":"technician","birthyear":1987,"City":"UNION","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"30078","userid":536,"age":38,"gender":"M","occupation":"engineer","birthyear":1979,"City":"SNELLVILLE","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"30329","userid":11,"age":39,"gender":"F","occupation":"other","birthyear":1978,"City":"ATLANTA","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"53171","userid":909,"age":50,"gender":"F","occupation":"educator","birthyear":1967,"City":"SOMERS","State":"WI","ZipCodeType":"PO BOX"}
+{"zipcode":"74075","userid":894,"age":47,"gender":"M","occupation":"educator","birthyear":1970,"City":"STILLWATER","State":"OK","ZipCodeType":"STANDARD"}
+{"zipcode":"77904","userid":302,"age":42,"gender":"M","occupation":"educator","birthyear":1975,"City":"VICTORIA","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"90814","userid":839,"age":38,"gender":"F","occupation":"entertainment","birthyear":1979,"City":"LONG BEACH","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"12065","userid":639,"age":42,"gender":"F","occupation":"librarian","birthyear":1975,"City":"CLIFTON PARK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"37777","userid":375,"age":17,"gender":"M","occupation":"entertainment","birthyear":2000,"City":"LOUISVILLE","State":"TN","ZipCodeType":"STANDARD"}
+{"zipcode":"74078","userid":872,"age":19,"gender":"F","occupation":"student","birthyear":1998,"City":"STILLWATER","State":"OK","ZipCodeType":"UNIQUE"}
+{"zipcode":"74101","userid":637,"age":30,"gender":"M","occupation":"other","birthyear":1987,"City":"TULSA","State":"OK","ZipCodeType":"PO BOX"}
+{"zipcode":"90291","userid":98,"age":49,"gender":"F","occupation":"executive","birthyear":1968,"City":"VENICE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"30606","userid":556,"age":35,"gender":"F","occupation":"educator","birthyear":1982,"City":"ATHENS","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"43202","userid":64,"age":32,"gender":"M","occupation":"educator","birthyear":1985,"City":"COLUMBUS","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"80027","userid":774,"age":30,"gender":"M","occupation":"student","birthyear":1987,"City":"LOUISVILLE","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"13210","userid":317,"age":22,"gender":"M","occupation":"administrator","birthyear":1995,"City":"SYRACUSE","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"21250","userid":511,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"BALTIMORE","State":"MD","ZipCodeType":"UNIQUE"}
+{"zipcode":"22911","userid":546,"age":36,"gender":"M","occupation":"executive","birthyear":1981,"City":"CHARLOTTESVILLE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"22911","userid":652,"age":35,"gender":"M","occupation":"other","birthyear":1982,"City":"CHARLOTTESVILLE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"30033","userid":278,"age":37,"gender":"F","occupation":"librarian","birthyear":1980,"City":"DECATUR","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"43085","userid":598,"age":40,"gender":"F","occupation":"marketing","birthyear":1977,"City":"COLUMBUS","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"90008","userid":920,"age":30,"gender":"F","occupation":"artist","birthyear":1987,"City":"LOS ANGELES","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"11701","userid":88,"age":49,"gender":"F","occupation":"librarian","birthyear":1968,"City":"AMITYVILLE","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"42101","userid":336,"age":23,"gender":"M","occupation":"salesman","birthyear":1994,"City":"BOWLING GREEN","State":"KY","ZipCodeType":"STANDARD"}
+{"zipcode":"10025","userid":501,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10025","userid":869,"age":30,"gender":"M","occupation":"student","birthyear":1987,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"16803","userid":296,"age":43,"gender":"F","occupation":"administrator","birthyear":1974,"City":"STATE COLLEGE","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"30030","userid":27,"age":40,"gender":"F","occupation":"librarian","birthyear":1977,"City":"DECATUR","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"93055","userid":842,"age":40,"gender":"M","occupation":"writer","birthyear":1977}
+{"zipcode":"02146","userid":521,"age":19,"gender":"M","occupation":"student","birthyear":1998}
+{"zipcode":"02146","userid":848,"age":46,"gender":"M","occupation":"engineer","birthyear":1971}
+{"zipcode":"20755","userid":179,"age":15,"gender":"M","occupation":"entertainment","birthyear":2002,"City":"FORT GEORGE G MEADE","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"20755","userid":816,"age":34,"gender":"M","occupation":"other","birthyear":1983,"City":"FORT GEORGE G MEADE","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"60135","userid":355,"age":25,"gender":"M","occupation":"student","birthyear":1992,"City":"GENOA","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"85710","userid":209,"age":33,"gender":"F","occupation":"educator","birthyear":1984,"City":"TUCSON","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"85711","userid":1,"age":24,"gender":"M","occupation":"technician","birthyear":1993,"City":"TUCSON","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"85711","userid":415,"age":39,"gender":"M","occupation":"educator","birthyear":1978,"City":"TUCSON","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"95316","userid":885,"age":30,"gender":"F","occupation":"other","birthyear":1987,"City":"DENAIR","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"20006","userid":917,"age":22,"gender":"F","occupation":"student","birthyear":1995,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"52245","userid":50,"age":21,"gender":"M","occupation":"writer","birthyear":1996,"City":"IOWA CITY","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"07029","userid":255,"age":23,"gender":"M","occupation":"entertainment","birthyear":1994,"City":"HARRISON","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"12345","userid":814,"age":30,"gender":"M","occupation":"other","birthyear":1987,"City":"SCHENECTADY","State":"NY","ZipCodeType":"UNIQUE"}
+{"zipcode":"20064","userid":791,"age":31,"gender":"M","occupation":"educator","birthyear":1986,"City":"WASHINGTON","State":"DC","ZipCodeType":"UNIQUE"}
+{"zipcode":"32250","userid":140,"age":30,"gender":"F","occupation":"student","birthyear":1987,"City":"JACKSONVILLE BEACH","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"44265","userid":716,"age":36,"gender":"F","occupation":"administrator","birthyear":1981,"City":"RANDOLPH","State":"OH","ZipCodeType":"PO BOX"}
+{"zipcode":"78704","userid":657,"age":26,"gender":"F","occupation":"none","birthyear":1991,"City":"AUSTIN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"78704","userid":889,"age":24,"gender":"M","occupation":"technician","birthyear":1993,"City":"AUSTIN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"97405","userid":845,"age":64,"gender":"M","occupation":"doctor","birthyear":1953,"City":"EUGENE","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"99687","userid":601,"age":19,"gender":"F","occupation":"artist","birthyear":1998,"City":"WASILLA","State":"AK","ZipCodeType":"PO BOX"}
+{"zipcode":"06472","userid":60,"age":50,"gender":"M","occupation":"healthcare","birthyear":1967,"City":"NORTHFORD","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"08904","userid":139,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"HIGHLAND PARK","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"17036","userid":888,"age":41,"gender":"M","occupation":"scientist","birthyear":1976,"City":"HUMMELSTOWN","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"44405","userid":341,"age":17,"gender":"F","occupation":"student","birthyear":2000,"City":"CAMPBELL","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"55303","userid":868,"age":21,"gender":"M","occupation":"programmer","birthyear":1996,"City":"ANOKA","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"78602","userid":133,"age":53,"gender":"M","occupation":"engineer","birthyear":1964,"City":"BASTROP","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"95821","userid":485,"age":44,"gender":"F","occupation":"educator","birthyear":1973,"City":"SACRAMENTO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"53202","userid":444,"age":51,"gender":"F","occupation":"lawyer","birthyear":1966,"City":"MILWAUKEE","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"97229","userid":941,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"PORTLAND","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"01824","userid":382,"age":45,"gender":"M","occupation":"engineer","birthyear":1972,"City":"CHELMSFORD","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"78628","userid":469,"age":60,"gender":"M","occupation":"educator","birthyear":1957,"City":"GEORGETOWN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"27510","userid":33,"age":23,"gender":"M","occupation":"student","birthyear":1994,"City":"CARRBORO","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"60613","userid":112,"age":30,"gender":"M","occupation":"salesman","birthyear":1987,"City":"CHICAGO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"80302","userid":535,"age":45,"gender":"F","occupation":"educator","birthyear":1972,"City":"BOULDER","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"08534","userid":370,"age":52,"gender":"M","occupation":"writer","birthyear":1965,"City":"PENNINGTON","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"20817","userid":439,"age":23,"gender":"F","occupation":"administrator","birthyear":1994,"City":"BETHESDA","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"63108","userid":299,"age":29,"gender":"M","occupation":"doctor","birthyear":1988,"City":"SAINT LOUIS","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"63108","userid":734,"age":25,"gender":"F","occupation":"other","birthyear":1992,"City":"SAINT LOUIS","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"63108","userid":741,"age":25,"gender":"M","occupation":"writer","birthyear":1992,"City":"SAINT LOUIS","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"01040","userid":39,"age":41,"gender":"M","occupation":"entertainment","birthyear":1976,"City":"HOLYOKE","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"34105","userid":802,"age":35,"gender":"M","occupation":"administrator","birthyear":1982,"City":"NAPLES","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"43201","userid":269,"age":31,"gender":"F","occupation":"librarian","birthyear":1986,"City":"COLUMBUS","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"80913","userid":790,"age":27,"gender":"M","occupation":"technician","birthyear":1990,"City":"COLORADO SPRINGS","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"14853","userid":303,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"ITHACA","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"22306","userid":173,"age":56,"gender":"M","occupation":"other","birthyear":1961,"City":"ALEXANDRIA","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"95662","userid":844,"age":22,"gender":"M","occupation":"engineer","birthyear":1995,"City":"ORANGEVALE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"19149","userid":323,"age":21,"gender":"M","occupation":"student","birthyear":1996,"City":"PHILADELPHIA","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"21114","userid":670,"age":30,"gender":"M","occupation":"technician","birthyear":1987,"City":"CROFTON","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"21114","userid":922,"age":29,"gender":"F","occupation":"administrator","birthyear":1988,"City":"CROFTON","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"49931","userid":193,"age":29,"gender":"M","occupation":"student","birthyear":1988,"City":"HOUGHTON","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"53214","userid":236,"age":44,"gender":"F","occupation":"writer","birthyear":1973,"City":"MILWAUKEE","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"60090","userid":493,"age":22,"gender":"M","occupation":"engineer","birthyear":1995,"City":"WHEELING","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"92113","userid":368,"age":18,"gender":"M","occupation":"student","birthyear":1999,"City":"SAN DIEGO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"06927","userid":769,"age":39,"gender":"M","occupation":"executive","birthyear":1978,"City":"STAMFORD","State":"CT","ZipCodeType":"UNIQUE"}
+{"zipcode":"22932","userid":271,"age":51,"gender":"M","occupation":"engineer","birthyear":1966,"City":"CROZET","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"32114","userid":730,"age":31,"gender":"F","occupation":"scientist","birthyear":1986,"City":"DAYTONA BEACH","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"02176","userid":324,"age":21,"gender":"F","occupation":"student","birthyear":1996,"City":"MELROSE","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"33763","userid":873,"age":48,"gender":"F","occupation":"administrator","birthyear":1969,"City":"CLEARWATER","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"65203","userid":870,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"COLUMBIA","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"68767","userid":152,"age":33,"gender":"F","occupation":"educator","birthyear":1984,"City":"PIERCE","State":"NE","ZipCodeType":"STANDARD"}
+{"zipcode":"68767","userid":593,"age":31,"gender":"F","occupation":"educator","birthyear":1986,"City":"PIERCE","State":"NE","ZipCodeType":"STANDARD"}
+{"zipcode":"78213","userid":400,"age":33,"gender":"F","occupation":"administrator","birthyear":1984,"City":"SAN ANTONIO","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"06059","userid":281,"age":15,"gender":"F","occupation":"student","birthyear":2002,"City":"NORTH CANTON","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"21208","userid":484,"age":27,"gender":"M","occupation":"student","birthyear":1990,"City":"PIKESVILLE","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"73034","userid":72,"age":48,"gender":"F","occupation":"administrator","birthyear":1969,"City":"EDMOND","State":"OK","ZipCodeType":"STANDARD"}
+{"zipcode":"73132","userid":306,"age":45,"gender":"M","occupation":"other","birthyear":1972,"City":"OKLAHOMA CITY","State":"OK","ZipCodeType":"STANDARD"}
+{"zipcode":"83716","userid":267,"age":23,"gender":"M","occupation":"engineer","birthyear":1994,"City":"BOISE","State":"ID","ZipCodeType":"STANDARD"}
+{"zipcode":"96819","userid":394,"age":25,"gender":"M","occupation":"administrator","birthyear":1992,"City":"HONOLULU","State":"HI","ZipCodeType":"STANDARD"}
+{"zipcode":"48911","userid":573,"age":68,"gender":"M","occupation":"retired","birthyear":1949,"City":"LANSING","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"93612","userid":747,"age":19,"gender":"M","occupation":"other","birthyear":1998,"City":"CLOVIS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"37235","userid":248,"age":25,"gender":"M","occupation":"student","birthyear":1992,"City":"NASHVILLE","State":"TN","ZipCodeType":"UNIQUE"}
+{"zipcode":"49938","userid":351,"age":61,"gender":"M","occupation":"educator","birthyear":1956,"City":"IRONWOOD","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"80228","userid":827,"age":23,"gender":"F","occupation":"engineer","birthyear":1994,"City":"DENVER","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"93117","userid":36,"age":19,"gender":"F","occupation":"student","birthyear":1998,"City":"GOLETA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"97302","userid":761,"age":17,"gender":"M","occupation":"student","birthyear":2000,"City":"SALEM","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"01970","userid":667,"age":35,"gender":"M","occupation":"librarian","birthyear":1982,"City":"SALEM","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"71701","userid":304,"age":22,"gender":"F","occupation":"student","birthyear":1995,"City":"CAMDEN","State":"AR","ZipCodeType":"STANDARD"}
+{"zipcode":"76013","userid":184,"age":37,"gender":"M","occupation":"librarian","birthyear":1980,"City":"ARLINGTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"90095","userid":672,"age":54,"gender":"F","occupation":"administrator","birthyear":1963,"City":"LOS ANGELES","State":"CA","ZipCodeType":"UNIQUE"}
+{"zipcode":"90210","userid":118,"age":21,"gender":"M","occupation":"administrator","birthyear":1996,"City":"BEVERLY HILLS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"90210","userid":347,"age":18,"gender":"M","occupation":"student","birthyear":1999,"City":"BEVERLY HILLS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"99709","userid":232,"age":45,"gender":"M","occupation":"scientist","birthyear":1972,"City":"FAIRBANKS","State":"AK","ZipCodeType":"STANDARD"}
+{"zipcode":"99709","userid":518,"age":49,"gender":"F","occupation":"writer","birthyear":1968,"City":"FAIRBANKS","State":"AK","ZipCodeType":"STANDARD"}
+{"zipcode":"68503","userid":759,"age":20,"gender":"F","occupation":"student","birthyear":1997,"City":"LINCOLN","State":"NE","ZipCodeType":"STANDARD"}
+{"zipcode":"75206","userid":96,"age":25,"gender":"F","occupation":"artist","birthyear":1992,"City":"DALLAS","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"55109","userid":245,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"83686","userid":393,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"NAMPA","State":"ID","ZipCodeType":"STANDARD"}
+{"zipcode":"55125","userid":106,"age":61,"gender":"M","occupation":"retired","birthyear":1956,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"85251","userid":279,"age":33,"gender":"M","occupation":"programmer","birthyear":1984,"City":"SCOTTSDALE","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"85282","userid":442,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"TEMPE","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"85282","userid":828,"age":28,"gender":"M","occupation":"librarian","birthyear":1989,"City":"TEMPE","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"22902","userid":82,"age":50,"gender":"M","occupation":"programmer","birthyear":1967,"City":"CHARLOTTESVILLE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"22902","userid":537,"age":36,"gender":"M","occupation":"engineer","birthyear":1981,"City":"CHARLOTTESVILLE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"22902","userid":934,"age":61,"gender":"M","occupation":"engineer","birthyear":1956,"City":"CHARLOTTESVILLE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"92705","userid":532,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"SANTA ANA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"93101","userid":486,"age":39,"gender":"M","occupation":"educator","birthyear":1978,"City":"SANTA BARBARA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94306","userid":628,"age":13,"gender":"M","occupation":"none","birthyear":2004,"City":"PALO ALTO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94306","userid":728,"age":58,"gender":"M","occupation":"executive","birthyear":1959,"City":"PALO ALTO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"02138","userid":19,"age":40,"gender":"M","occupation":"librarian","birthyear":1977,"City":"CAMBRIDGE","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"07039","userid":129,"age":36,"gender":"F","occupation":"marketing","birthyear":1981,"City":"LIVINGSTON","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"32712","userid":676,"age":30,"gender":"M","occupation":"programmer","birthyear":1987,"City":"APOPKA","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"46005","userid":86,"age":26,"gender":"M","occupation":"administrator","birthyear":1991}
+{"zipcode":"55413","userid":321,"age":49,"gender":"F","occupation":"educator","birthyear":1968,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"60089","userid":691,"age":34,"gender":"M","occupation":"educator","birthyear":1983,"City":"BUFFALO GROVE","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"60089","userid":863,"age":17,"gender":"M","occupation":"student","birthyear":2000,"City":"BUFFALO GROVE","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"15203","userid":711,"age":22,"gender":"F","occupation":"student","birthyear":1995,"City":"PITTSBURGH","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"20003","userid":85,"age":51,"gender":"M","occupation":"educator","birthyear":1966,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"20003","userid":572,"age":51,"gender":"M","occupation":"educator","birthyear":1966,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"20090","userid":512,"age":29,"gender":"M","occupation":"other","birthyear":1988,"City":"WASHINGTON","State":"DC","ZipCodeType":"PO BOX"}
+{"zipcode":"20850","userid":903,"age":28,"gender":"M","occupation":"educator","birthyear":1989,"City":"ROCKVILLE","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"66221","userid":935,"age":42,"gender":"M","occupation":"doctor","birthyear":1975,"City":"OVERLAND PARK","State":"KS","ZipCodeType":"STANDARD"}
+{"zipcode":"90247","userid":756,"age":30,"gender":"F","occupation":"none","birthyear":1987,"City":"GARDENA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"92629","userid":284,"age":40,"gender":"M","occupation":"executive","birthyear":1977,"City":"DANA POINT","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"92629","userid":431,"age":24,"gender":"M","occupation":"marketing","birthyear":1993,"City":"DANA POINT","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"22003","userid":228,"age":21,"gender":"F","occupation":"student","birthyear":1996,"City":"ANNANDALE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"92660","userid":743,"age":31,"gender":"M","occupation":"programmer","birthyear":1986,"City":"NEWPORT BEACH","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"02110","userid":312,"age":48,"gender":"M","occupation":"other","birthyear":1969,"City":"BOSTON","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"38115","userid":414,"age":24,"gender":"M","occupation":"programmer","birthyear":1993,"City":"MEMPHIS","State":"TN","ZipCodeType":"STANDARD"}
+{"zipcode":"38115","userid":695,"age":26,"gender":"M","occupation":"writer","birthyear":1991,"City":"MEMPHIS","State":"TN","ZipCodeType":"STANDARD"}
+{"zipcode":"46538","userid":46,"age":27,"gender":"F","occupation":"marketing","birthyear":1990,"City":"LEESBURG","State":"IN","ZipCodeType":"STANDARD"}
+{"zipcode":"53211","userid":138,"age":46,"gender":"M","occupation":"doctor","birthyear":1971,"City":"MILWAUKEE","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"53211","userid":645,"age":27,"gender":"M","occupation":"programmer","birthyear":1990,"City":"MILWAUKEE","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"80127","userid":168,"age":48,"gender":"M","occupation":"other","birthyear":1969,"City":"LITTLETON","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"01080","userid":231,"age":48,"gender":"M","occupation":"librarian","birthyear":1969,"City":"THREE RIVERS","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"06260","userid":120,"age":47,"gender":"F","occupation":"other","birthyear":1970,"City":"PUTNAM","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"50325","userid":295,"age":31,"gender":"M","occupation":"educator","birthyear":1986,"City":"CLIVE","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"59801","userid":392,"age":52,"gender":"M","occupation":"writer","birthyear":1965,"City":"MISSOULA","State":"MT","ZipCodeType":"STANDARD"}
+{"zipcode":"76201","userid":913,"age":27,"gender":"M","occupation":"student","birthyear":1990,"City":"DENTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"92110","userid":294,"age":34,"gender":"M","occupation":"technician","birthyear":1983,"City":"SAN DIEGO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"16506","userid":720,"age":49,"gender":"F","occupation":"administrator","birthyear":1968,"City":"ERIE","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"80526","userid":810,"age":55,"gender":"F","occupation":"other","birthyear":1962,"City":"FORT COLLINS","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"80526","userid":907,"age":25,"gender":"F","occupation":"other","birthyear":1992,"City":"FORT COLLINS","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"01331","userid":55,"age":37,"gender":"M","occupation":"programmer","birthyear":1980,"City":"ATHOL","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"02918","userid":462,"age":19,"gender":"F","occupation":"student","birthyear":1998,"City":"PROVIDENCE","State":"RI","ZipCodeType":"UNIQUE"}
+{"zipcode":"14085","userid":861,"age":38,"gender":"F","occupation":"student","birthyear":1979,"City":"LAKE VIEW","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"19104","userid":177,"age":20,"gender":"M","occupation":"programmer","birthyear":1997,"City":"PHILADELPHIA","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"94551","userid":396,"age":57,"gender":"M","occupation":"engineer","birthyear":1960,"City":"LIVERMORE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"10010","userid":376,"age":28,"gender":"F","occupation":"other","birthyear":1989,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"33205","userid":782,"age":21,"gender":"F","occupation":"artist","birthyear":1996}
+{"zipcode":"60302","userid":866,"age":45,"gender":"M","occupation":"other","birthyear":1972,"City":"OAK PARK","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"60402","userid":67,"age":17,"gender":"M","occupation":"student","birthyear":2000,"City":"BERWYN","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"60402","userid":621,"age":17,"gender":"M","occupation":"student","birthyear":2000,"City":"BERWYN","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"80123","userid":164,"age":47,"gender":"M","occupation":"healthcare","birthyear":1970,"City":"LITTLETON","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"80123","userid":340,"age":46,"gender":"M","occupation":"engineer","birthyear":1971,"City":"LITTLETON","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"95468","userid":548,"age":51,"gender":"M","occupation":"writer","birthyear":1966,"City":"POINT ARENA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"97212","userid":163,"age":49,"gender":"M","occupation":"administrator","birthyear":1968,"City":"PORTLAND","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"36106","userid":388,"age":31,"gender":"M","occupation":"other","birthyear":1986,"City":"MONTGOMERY","State":"AL","ZipCodeType":"STANDARD"}
+{"zipcode":"60626","userid":641,"age":24,"gender":"M","occupation":"student","birthyear":1993,"City":"CHICAGO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"91344","userid":7,"age":57,"gender":"M","occupation":"administrator","birthyear":1960,"City":"GRANADA HILLS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"91344","userid":331,"age":33,"gender":"M","occupation":"entertainment","birthyear":1984,"City":"GRANADA HILLS","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94618","userid":492,"age":57,"gender":"M","occupation":"educator","birthyear":1960,"City":"OAKLAND","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"94618","userid":736,"age":48,"gender":"F","occupation":"writer","birthyear":1969,"City":"OAKLAND","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"95403","userid":738,"age":35,"gender":"M","occupation":"technician","birthyear":1982,"City":"SANTA ROSA","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"98027","userid":360,"age":51,"gender":"M","occupation":"other","birthyear":1966,"City":"ISSAQUAH","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"98027","userid":878,"age":50,"gender":"F","occupation":"educator","birthyear":1967,"City":"ISSAQUAH","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"20001","userid":241,"age":26,"gender":"F","occupation":"student","birthyear":1991,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"33775","userid":335,"age":45,"gender":"M","occupation":"executive","birthyear":1972,"City":"SEMINOLE","State":"FL","ZipCodeType":"PO BOX"}
+{"zipcode":"37076","userid":874,"age":36,"gender":"M","occupation":"scientist","birthyear":1981,"City":"HERMITAGE","State":"TN","ZipCodeType":"STANDARD"}
+{"zipcode":"61801","userid":78,"age":26,"gender":"M","occupation":"administrator","birthyear":1991,"City":"URBANA","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"61801","userid":359,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"URBANA","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"61801","userid":640,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"URBANA","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"03261","userid":407,"age":29,"gender":"M","occupation":"engineer","birthyear":1988,"City":"NORTHWOOD","State":"NH","ZipCodeType":"STANDARD"}
+{"zipcode":"20854","userid":43,"age":29,"gender":"F","occupation":"librarian","birthyear":1988,"City":"POTOMAC","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"22903","userid":229,"age":29,"gender":"F","occupation":"librarian","birthyear":1988,"City":"CHARLOTTESVILLE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"22903","userid":253,"age":26,"gender":"F","occupation":"librarian","birthyear":1991,"City":"CHARLOTTESVILLE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"22903","userid":280,"age":30,"gender":"F","occupation":"librarian","birthyear":1987,"City":"CHARLOTTESVILLE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"22973","userid":235,"age":37,"gender":"M","occupation":"educator","birthyear":1980,"City":"STANARDSVILLE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"48105","userid":933,"age":28,"gender":"M","occupation":"student","birthyear":1989,"City":"ANN ARBOR","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"23226","userid":288,"age":34,"gender":"M","occupation":"marketing","birthyear":1983,"City":"RICHMOND","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"28814","userid":675,"age":34,"gender":"M","occupation":"other","birthyear":1983,"City":"ASHEVILLE","State":"NC","ZipCodeType":"PO BOX"}
+{"zipcode":"34656","userid":602,"age":47,"gender":"F","occupation":"other","birthyear":1970,"City":"NEW PORT RICHEY","State":"FL","ZipCodeType":"PO BOX"}
+{"zipcode":"90019","userid":833,"age":34,"gender":"M","occupation":"writer","birthyear":1983,"City":"LOS ANGELES","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"06492","userid":859,"age":18,"gender":"F","occupation":"other","birthyear":1999,"City":"WALLINGFORD","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"06518","userid":318,"age":65,"gender":"M","occupation":"retired","birthyear":1952,"City":"HAMDEN","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"11211","userid":433,"age":27,"gender":"M","occupation":"artist","birthyear":1990,"City":"BROOKLYN","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"44133","userid":83,"age":40,"gender":"M","occupation":"other","birthyear":1977,"City":"NORTH ROYALTON","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"60804","userid":293,"age":24,"gender":"M","occupation":"writer","birthyear":1993,"City":"CICERO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"63033","userid":215,"age":35,"gender":"M","occupation":"programmer","birthyear":1982,"City":"FLORISSANT","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"64153","userid":834,"age":26,"gender":"M","occupation":"other","birthyear":1991,"City":"KANSAS CITY","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"77840","userid":110,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"COLLEGE STATION","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"93711","userid":474,"age":51,"gender":"M","occupation":"executive","birthyear":1966,"City":"FRESNO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"19422","userid":268,"age":24,"gender":"M","occupation":"engineer","birthyear":1993,"City":"BLUE BELL","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"33319","userid":939,"age":26,"gender":"F","occupation":"student","birthyear":1991,"City":"FORT LAUDERDALE","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"50613","userid":322,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"CEDAR FALLS","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"50613","userid":616,"age":55,"gender":"M","occupation":"scientist","birthyear":1962,"City":"CEDAR FALLS","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"64118","userid":718,"age":42,"gender":"M","occupation":"technician","birthyear":1975,"City":"KANSAS CITY","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"78264","userid":262,"age":19,"gender":"F","occupation":"student","birthyear":1998,"City":"SAN ANTONIO","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"97408","userid":531,"age":30,"gender":"F","occupation":"salesman","birthyear":1987,"City":"EUGENE","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"08610","userid":795,"age":30,"gender":"M","occupation":"programmer","birthyear":1987,"City":"TRENTON","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"17325","userid":149,"age":35,"gender":"F","occupation":"marketing","birthyear":1982,"City":"GETTYSBURG","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"53066","userid":830,"age":46,"gender":"M","occupation":"programmer","birthyear":1971,"City":"OCONOMOWOC","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"55369","userid":28,"age":32,"gender":"M","occupation":"writer","birthyear":1985,"City":"OSSEO","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55369","userid":84,"age":32,"gender":"M","occupation":"executive","birthyear":1985,"City":"OSSEO","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"58644","userid":425,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"MARSHALL","State":"ND","ZipCodeType":"STANDARD"}
+{"zipcode":"68504","userid":908,"age":44,"gender":"F","occupation":"librarian","birthyear":1973,"City":"LINCOLN","State":"NE","ZipCodeType":"STANDARD"}
+{"zipcode":"90804","userid":466,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"LONG BEACH","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"98102","userid":461,"age":15,"gender":"M","occupation":"student","birthyear":2002,"City":"SEATTLE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"06355","userid":17,"age":30,"gender":"M","occupation":"programmer","birthyear":1987,"City":"MYSTIC","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"45218","userid":384,"age":52,"gender":"M","occupation":"programmer","birthyear":1965,"City":"CINCINNATI","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"45218","userid":489,"age":55,"gender":"M","occupation":"other","birthyear":1962,"City":"CINCINNATI","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"56321","userid":701,"age":51,"gender":"F","occupation":"librarian","birthyear":1966,"City":"COLLEGEVILLE","State":"MN","ZipCodeType":"PO BOX"}
+{"zipcode":"77009","userid":316,"age":43,"gender":"F","occupation":"other","birthyear":1974,"City":"HOUSTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"94920","userid":696,"age":55,"gender":"M","occupation":"other","birthyear":1962,"City":"BELVEDERE TIBURON","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"98133","userid":357,"age":26,"gender":"M","occupation":"executive","birthyear":1991,"City":"SEATTLE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"10522","userid":337,"age":37,"gender":"M","occupation":"scientist","birthyear":1980,"City":"DOBBS FERRY","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"17345","userid":436,"age":30,"gender":"F","occupation":"administrator","birthyear":1987,"City":"MANCHESTER","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"23092","userid":502,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"LOCUST HILL","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"18505","userid":900,"age":60,"gender":"M","occupation":"retired","birthyear":1957,"City":"SCRANTON","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"22030","userid":319,"age":38,"gender":"M","occupation":"programmer","birthyear":1979,"City":"FAIRFAX","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"53715","userid":165,"age":20,"gender":"F","occupation":"other","birthyear":1997,"City":"MADISON","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"27606","userid":158,"age":50,"gender":"M","occupation":"educator","birthyear":1967,"City":"RALEIGH","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"55343","userid":714,"age":26,"gender":"M","occupation":"engineer","birthyear":1991,"City":"HOPKINS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55443","userid":522,"age":36,"gender":"M","occupation":"engineer","birthyear":1981,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"60005","userid":561,"age":23,"gender":"M","occupation":"engineer","birthyear":1994,"City":"ARLINGTON HEIGHTS","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"67401","userid":119,"age":32,"gender":"M","occupation":"programmer","birthyear":1985,"City":"SALINA","State":"KS","ZipCodeType":"STANDARD"}
+{"zipcode":"77073","userid":596,"age":20,"gender":"M","occupation":"artist","birthyear":1997,"City":"HOUSTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"83709","userid":455,"age":48,"gender":"M","occupation":"administrator","birthyear":1969,"City":"BOISE","State":"ID","ZipCodeType":"STANDARD"}
+{"zipcode":"10022","userid":358,"age":40,"gender":"M","occupation":"educator","birthyear":1977,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"10022","userid":559,"age":69,"gender":"M","occupation":"executive","birthyear":1948,"City":"NEW YORK","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"46260","userid":44,"age":26,"gender":"M","occupation":"technician","birthyear":1991,"City":"INDIANAPOLIS","State":"IN","ZipCodeType":"STANDARD"}
+{"zipcode":"46260","userid":56,"age":25,"gender":"M","occupation":"librarian","birthyear":1992,"City":"INDIANAPOLIS","State":"IN","ZipCodeType":"STANDARD"}
+{"zipcode":"63304","userid":690,"age":35,"gender":"M","occupation":"salesman","birthyear":1982,"City":"SAINT CHARLES","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"01720","userid":208,"age":43,"gender":"M","occupation":"engineer","birthyear":1974,"City":"ACTON","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"01720","userid":329,"age":48,"gender":"M","occupation":"educator","birthyear":1969,"City":"ACTON","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"31404","userid":242,"age":33,"gender":"M","occupation":"educator","birthyear":1984,"City":"SAVANNAH","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"33884","userid":182,"age":36,"gender":"M","occupation":"programmer","birthyear":1981,"City":"WINTER HAVEN","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"33884","userid":330,"age":35,"gender":"F","occupation":"educator","birthyear":1982,"City":"WINTER HAVEN","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"04988","userid":855,"age":53,"gender":"M","occupation":"librarian","birthyear":1964,"City":"UNITY","State":"ME","ZipCodeType":"STANDARD"}
+{"zipcode":"20015","userid":126,"age":28,"gender":"F","occupation":"lawyer","birthyear":1989,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"20910","userid":144,"age":53,"gender":"M","occupation":"programmer","birthyear":1964,"City":"SILVER SPRING","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"29201","userid":459,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"COLUMBIA","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"55423","userid":109,"age":29,"gender":"M","occupation":"other","birthyear":1988,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"90036","userid":775,"age":46,"gender":"M","occupation":"executive","birthyear":1971,"City":"LOS ANGELES","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"99835","userid":677,"age":20,"gender":"M","occupation":"other","birthyear":1997,"City":"SITKA","State":"AK","ZipCodeType":"STANDARD"}
+{"zipcode":"63129","userid":99,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"SAINT LOUIS","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"94403","userid":723,"age":26,"gender":"M","occupation":"executive","birthyear":1991,"City":"SAN MATEO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"98620","userid":787,"age":18,"gender":"F","occupation":"student","birthyear":1999,"City":"GOLDENDALE","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"07204","userid":713,"age":42,"gender":"F","occupation":"other","birthyear":1975,"City":"ROSELLE PARK","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"11753","userid":924,"age":29,"gender":"M","occupation":"other","birthyear":1988,"City":"JERICHO","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"15217","userid":286,"age":27,"gender":"M","occupation":"student","birthyear":1990,"City":"PITTSBURGH","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"54901","userid":712,"age":22,"gender":"F","occupation":"student","birthyear":1995,"City":"OSHKOSH","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"94115","userid":664,"age":30,"gender":"M","occupation":"engineer","birthyear":1987,"City":"SAN FRANCISCO","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"17110","userid":115,"age":31,"gender":"M","occupation":"engineer","birthyear":1986,"City":"HARRISBURG","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"43221","userid":386,"age":36,"gender":"M","occupation":"salesman","birthyear":1981,"City":"COLUMBUS","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"53706","userid":272,"age":33,"gender":"M","occupation":"scientist","birthyear":1984,"City":"MADISON","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"53706","userid":758,"age":27,"gender":"M","occupation":"student","birthyear":1990,"City":"MADISON","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"11787","userid":604,"age":39,"gender":"M","occupation":"educator","birthyear":1978,"City":"SMITHTOWN","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"85258","userid":427,"age":51,"gender":"M","occupation":"doctor","birthyear":1966,"City":"SCOTTSDALE","State":"AZ","ZipCodeType":"STANDARD"}
+{"zipcode":"96754","userid":699,"age":44,"gender":"M","occupation":"other","birthyear":1973,"City":"KILAUEA","State":"HI","ZipCodeType":"STANDARD"}
+{"zipcode":"10707","userid":95,"age":31,"gender":"M","occupation":"administrator","birthyear":1986,"City":"TUCKAHOE","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"11101","userid":327,"age":22,"gender":"M","occupation":"student","birthyear":1995,"City":"LONG ISLAND CITY","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"30093","userid":343,"age":43,"gender":"M","occupation":"engineer","birthyear":1974,"City":"NORCROSS","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"33066","userid":765,"age":31,"gender":"M","occupation":"student","birthyear":1986,"City":"POMPANO BEACH","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"41850","userid":73,"age":24,"gender":"M","occupation":"student","birthyear":1993}
+{"zipcode":"48823","userid":259,"age":21,"gender":"M","occupation":"student","birthyear":1996,"City":"EAST LANSING","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"08105","userid":914,"age":44,"gender":"F","occupation":"other","birthyear":1973,"City":"CAMDEN","State":"NJ","ZipCodeType":"STANDARD"}
+{"zipcode":"19807","userid":626,"age":23,"gender":"M","occupation":"scientist","birthyear":1994,"City":"WILMINGTON","State":"DE","ZipCodeType":"STANDARD"}
+{"zipcode":"55409","userid":479,"age":30,"gender":"M","occupation":"educator","birthyear":1987,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55409","userid":685,"age":32,"gender":"F","occupation":"librarian","birthyear":1985,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55409","userid":837,"age":36,"gender":"F","occupation":"artist","birthyear":1981,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"16801","userid":187,"age":26,"gender":"M","occupation":"educator","birthyear":1991,"City":"STATE COLLEGE","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"42647","userid":254,"age":44,"gender":"M","occupation":"educator","birthyear":1973,"City":"STEARNS","State":"KY","ZipCodeType":"STANDARD"}
+{"zipcode":"60067","userid":70,"age":27,"gender":"M","occupation":"engineer","birthyear":1990,"City":"PALATINE","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"87544","userid":472,"age":24,"gender":"M","occupation":"student","birthyear":1993,"City":"LOS ALAMOS","State":"NM","ZipCodeType":"STANDARD"}
+{"zipcode":"15213","userid":5,"age":33,"gender":"F","occupation":"other","birthyear":1984,"City":"PITTSBURGH","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"18053","userid":692,"age":34,"gender":"M","occupation":"engineer","birthyear":1983,"City":"GERMANSVILLE","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"01915","userid":568,"age":39,"gender":"M","occupation":"educator","birthyear":1978,"City":"BEVERLY","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"15237","userid":131,"age":59,"gender":"F","occupation":"administrator","birthyear":1958,"City":"PITTSBURGH","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"27249","userid":887,"age":14,"gender":"F","occupation":"student","birthyear":2003,"City":"GIBSONVILLE","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"47130","userid":846,"age":27,"gender":"M","occupation":"lawyer","birthyear":1990,"City":"JEFFERSONVILLE","State":"IN","ZipCodeType":"STANDARD"}
+{"zipcode":"48118","userid":65,"age":51,"gender":"F","occupation":"educator","birthyear":1966,"City":"CHELSEA","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"48118","userid":142,"age":13,"gender":"M","occupation":"other","birthyear":2004,"City":"CHELSEA","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"15232","userid":771,"age":26,"gender":"M","occupation":"student","birthyear":1991,"City":"PITTSBURGH","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"55345","userid":213,"age":33,"gender":"M","occupation":"executive","birthyear":1984,"City":"MINNETONKA","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55412","userid":665,"age":25,"gender":"M","occupation":"administrator","birthyear":1992,"City":"MINNEAPOLIS","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"66215","userid":160,"age":27,"gender":"M","occupation":"programmer","birthyear":1990,"City":"LENEXA","State":"KS","ZipCodeType":"STANDARD"}
+{"zipcode":"97232","userid":116,"age":40,"gender":"M","occupation":"healthcare","birthyear":1977,"City":"PORTLAND","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"01002","userid":9,"age":29,"gender":"M","occupation":"student","birthyear":1988,"City":"AMHERST","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"37411","userid":367,"age":17,"gender":"M","occupation":"student","birthyear":2000,"City":"CHATTANOOGA","State":"TN","ZipCodeType":"STANDARD"}
+{"zipcode":"84604","userid":391,"age":23,"gender":"M","occupation":"student","birthyear":1994,"City":"PROVO","State":"UT","ZipCodeType":"STANDARD"}
+{"zipcode":"12180","userid":527,"age":33,"gender":"M","occupation":"librarian","birthyear":1984,"City":"TROY","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"31909","userid":595,"age":25,"gender":"M","occupation":"programmer","birthyear":1992,"City":"COLUMBUS","State":"GA","ZipCodeType":"STANDARD"}
+{"zipcode":"37212","userid":18,"age":35,"gender":"F","occupation":"other","birthyear":1982,"City":"NASHVILLE","State":"TN","ZipCodeType":"STANDARD"}
+{"zipcode":"57197","userid":794,"age":32,"gender":"M","occupation":"educator","birthyear":1985,"City":"SIOUX FALLS","State":"SD","ZipCodeType":"UNIQUE"}
+{"zipcode":"98257","userid":480,"age":57,"gender":"M","occupation":"retired","birthyear":1960,"City":"LA CONNER","State":"WA","ZipCodeType":"STANDARD"}
+{"zipcode":"06365","userid":694,"age":60,"gender":"M","occupation":"programmer","birthyear":1957,"City":"PRESTON","State":"CT","ZipCodeType":"STANDARD"}
+{"zipcode":"22904","userid":68,"age":19,"gender":"M","occupation":"student","birthyear":1998,"City":"CHARLOTTESVILLE","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"29678","userid":613,"age":37,"gender":"F","occupation":"marketing","birthyear":1980,"City":"SENECA","State":"SC","ZipCodeType":"STANDARD"}
+{"zipcode":"43204","userid":438,"age":51,"gender":"F","occupation":"administrator","birthyear":1966,"City":"COLUMBUS","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"60614","userid":915,"age":50,"gender":"M","occupation":"entertainment","birthyear":1967,"City":"CHICAGO","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"76111","userid":49,"age":23,"gender":"F","occupation":"student","birthyear":1994,"City":"FORT WORTH","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"78212","userid":413,"age":55,"gender":"M","occupation":"educator","birthyear":1962,"City":"SAN ANTONIO","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"78212","userid":803,"age":70,"gender":"M","occupation":"administrator","birthyear":1947,"City":"SAN ANTONIO","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"89801","userid":260,"age":40,"gender":"F","occupation":"artist","birthyear":1977,"City":"ELKO","State":"NV","ZipCodeType":"STANDARD"}
+{"zipcode":"91351","userid":648,"age":43,"gender":"M","occupation":"engineer","birthyear":1974,"City":"CANYON COUNTRY","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"42141","userid":34,"age":38,"gender":"F","occupation":"administrator","birthyear":1979,"City":"GLASGOW","State":"KY","ZipCodeType":"STANDARD"}
+{"zipcode":"60008","userid":398,"age":40,"gender":"M","occupation":"other","birthyear":1977,"City":"ROLLING MEADOWS","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"77380","userid":660,"age":26,"gender":"M","occupation":"student","birthyear":1991,"City":"SPRING","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"82435","userid":590,"age":50,"gender":"M","occupation":"educator","birthyear":1967,"City":"POWELL","State":"WY","ZipCodeType":"STANDARD"}
+{"zipcode":"40205","userid":819,"age":59,"gender":"M","occupation":"administrator","birthyear":1958,"City":"LOUISVILLE","State":"KY","ZipCodeType":"STANDARD"}
+{"zipcode":"63044","userid":606,"age":28,"gender":"M","occupation":"programmer","birthyear":1989,"City":"BRIDGETON","State":"MO","ZipCodeType":"STANDARD"}
+{"zipcode":"75006","userid":499,"age":42,"gender":"M","occupation":"programmer","birthyear":1975,"City":"CARROLLTON","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"81648","userid":620,"age":18,"gender":"F","occupation":"writer","birthyear":1999,"City":"RANGELY","State":"CO","ZipCodeType":"STANDARD"}
+{"zipcode":"94583","userid":464,"age":60,"gender":"M","occupation":"writer","birthyear":1957,"City":"SAN RAMON","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"10309","userid":16,"age":21,"gender":"M","occupation":"entertainment","birthyear":1996,"City":"STATEN ISLAND","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"14534","userid":547,"age":50,"gender":"M","occupation":"educator","birthyear":1967,"City":"PITTSFORD","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"20879","userid":562,"age":54,"gender":"F","occupation":"administrator","birthyear":1963,"City":"GAITHERSBURG","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"21218","userid":81,"age":21,"gender":"M","occupation":"student","birthyear":1996,"City":"BALTIMORE","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"21218","userid":181,"age":26,"gender":"M","occupation":"executive","birthyear":1991,"City":"BALTIMORE","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"33765","userid":831,"age":21,"gender":"M","occupation":"other","birthyear":1996,"City":"CLEARWATER","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"37412","userid":387,"age":33,"gender":"M","occupation":"entertainment","birthyear":1984,"City":"CHATTANOOGA","State":"TN","ZipCodeType":"STANDARD"}
+{"zipcode":"84408","userid":137,"age":50,"gender":"M","occupation":"educator","birthyear":1967,"City":"OGDEN","State":"UT","ZipCodeType":"UNIQUE"}
+{"zipcode":"20770","userid":247,"age":28,"gender":"M","occupation":"engineer","birthyear":1989,"City":"GREENBELT","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"23227","userid":555,"age":29,"gender":"F","occupation":"educator","birthyear":1988,"City":"RICHMOND","State":"VA","ZipCodeType":"STANDARD"}
+{"zipcode":"27514","userid":40,"age":38,"gender":"M","occupation":"scientist","birthyear":1979,"City":"CHAPEL HILL","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"27514","userid":397,"age":17,"gender":"M","occupation":"student","birthyear":2000,"City":"CHAPEL HILL","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"27514","userid":503,"age":50,"gender":"F","occupation":"writer","birthyear":1967,"City":"CHAPEL HILL","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"27514","userid":818,"age":28,"gender":"M","occupation":"librarian","birthyear":1989,"City":"CHAPEL HILL","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"92064","userid":275,"age":38,"gender":"M","occupation":"engineer","birthyear":1979,"City":"POWAY","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"22906","userid":673,"age":51,"gender":"M","occupation":"educator","birthyear":1966,"City":"CHARLOTTESVILLE","State":"VA","ZipCodeType":"PO BOX"}
+{"zipcode":"49508","userid":515,"age":53,"gender":"M","occupation":"marketing","birthyear":1964,"City":"GRAND RAPIDS","State":"MI","ZipCodeType":"STANDARD"}
+{"zipcode":"59717","userid":338,"age":39,"gender":"F","occupation":"librarian","birthyear":1978,"City":"BOZEMAN","State":"MT","ZipCodeType":"PO BOX"}
+{"zipcode":"95110","userid":250,"age":29,"gender":"M","occupation":"executive","birthyear":1988,"City":"SAN JOSE","State":"CA","ZipCodeType":"STANDARD"}
+{"zipcode":"20657","userid":505,"age":27,"gender":"F","occupation":"other","birthyear":1990,"City":"LUSBY","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"44134","userid":619,"age":17,"gender":"M","occupation":"student","birthyear":2000,"City":"CLEVELAND","State":"OH","ZipCodeType":"STANDARD"}
+{"zipcode":"02140","userid":420,"age":53,"gender":"M","occupation":"educator","birthyear":1964,"City":"CAMBRIDGE","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"32789","userid":936,"age":24,"gender":"M","occupation":"other","birthyear":1993,"City":"WINTER PARK","State":"FL","ZipCodeType":"STANDARD"}
+{"zipcode":"21010","userid":538,"age":31,"gender":"M","occupation":"scientist","birthyear":1986,"City":"GUNPOWDER","State":"MD","ZipCodeType":"STANDARD"}
+{"zipcode":"50233","userid":45,"age":29,"gender":"M","occupation":"programmer","birthyear":1988,"City":"REDFIELD","State":"IA","ZipCodeType":"STANDARD"}
+{"zipcode":"70403","userid":731,"age":41,"gender":"F","occupation":"educator","birthyear":1976,"City":"HAMMOND","State":"LA","ZipCodeType":"STANDARD"}
+{"zipcode":"05464","userid":534,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"JEFFERSONVILLE","State":"VT","ZipCodeType":"STANDARD"}
+{"zipcode":"28480","userid":353,"age":25,"gender":"M","occupation":"scientist","birthyear":1992,"City":"WRIGHTSVILLE BEACH","State":"NC","ZipCodeType":"STANDARD"}
+{"zipcode":"44648","userid":871,"age":31,"gender":"M","occupation":"executive","birthyear":1986,"City":"MASSILLON","State":"OH","ZipCodeType":"PO BOX"}
+{"zipcode":"75094","userid":197,"age":55,"gender":"M","occupation":"technician","birthyear":1962,"City":"PLANO","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"79508","userid":586,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"BUFFALO GAP","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"97208","userid":681,"age":44,"gender":"F","occupation":"marketing","birthyear":1973,"City":"PORTLAND","State":"OR","ZipCodeType":"PO BOX"}
+{"zipcode":"78746","userid":374,"age":36,"gender":"M","occupation":"executive","birthyear":1981,"City":"AUSTIN","State":"TX","ZipCodeType":"STANDARD"}
+{"zipcode":"97203","userid":902,"age":45,"gender":"F","occupation":"artist","birthyear":1972,"City":"PORTLAND","State":"OR","ZipCodeType":"STANDARD"}
+{"zipcode":"53210","userid":911,"age":37,"gender":"F","occupation":"writer","birthyear":1980,"City":"MILWAUKEE","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"53713","userid":285,"age":25,"gender":"M","occupation":"programmer","birthyear":1992,"City":"MADISON","State":"WI","ZipCodeType":"STANDARD"}
+{"zipcode":"60515","userid":542,"age":21,"gender":"M","occupation":"student","birthyear":1996,"City":"DOWNERS GROVE","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"84601","userid":265,"age":26,"gender":"M","occupation":"executive","birthyear":1991,"City":"PROVO","State":"UT","ZipCodeType":"STANDARD"}
+{"zipcode":"11238","userid":721,"age":24,"gender":"F","occupation":"entertainment","birthyear":1993,"City":"BROOKLYN","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"15222","userid":412,"age":25,"gender":"M","occupation":"educator","birthyear":1992,"City":"PITTSBURGH","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"20008","userid":123,"age":48,"gender":"F","occupation":"artist","birthyear":1969,"City":"WASHINGTON","State":"DC","ZipCodeType":"STANDARD"}
+{"zipcode":"60007","userid":435,"age":24,"gender":"M","occupation":"engineer","birthyear":1993,"City":"ELK GROVE VILLAGE","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"14850","userid":622,"age":25,"gender":"M","occupation":"programmer","birthyear":1992,"City":"ITHACA","State":"NY","ZipCodeType":"STANDARD"}
+{"zipcode":"19047","userid":746,"age":25,"gender":"M","occupation":"engineer","birthyear":1992,"City":"LANGHORNE","State":"PA","ZipCodeType":"STANDARD"}
+{"zipcode":"60466","userid":107,"age":39,"gender":"M","occupation":"scientist","birthyear":1978,"City":"PARK FOREST","State":"IL","ZipCodeType":"STANDARD"}
+{"zipcode":"02215","userid":76,"age":20,"gender":"M","occupation":"student","birthyear":1997,"City":"BOSTON","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"02215","userid":216,"age":22,"gender":"M","occupation":"engineer","birthyear":1995,"City":"BOSTON","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"02215","userid":940,"age":32,"gender":"M","occupation":"administrator","birthyear":1985,"City":"BOSTON","State":"MA","ZipCodeType":"STANDARD"}
+{"zipcode":"55108","userid":103,"age":26,"gender":"M","occupation":"student","birthyear":1991,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55108","userid":104,"age":27,"gender":"M","occupation":"student","birthyear":1990,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"55108","userid":404,"age":29,"gender":"F","occupation":"programmer","birthyear":1988,"City":"SAINT PAUL","State":"MN","ZipCodeType":"STANDARD"}
+{"zipcode":"70124","userid":906,"age":45,"gender":"M","occupation":"librarian","birthyear":1972,"City":"NEW ORLEANS","State":"LA","ZipCodeType":"STANDARD"}
